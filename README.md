@@ -161,7 +161,7 @@ Find Answers, Learn, and Share Your Knowledge
 </tr>
 <tr class="odd">
 <td> <b><a href="https://www.mathworks.com/academia/student-competitions/tutorials-videos.html">Videos and Tutorials for Student Projects<b> <br>
-<img src="Images/skidpad.gif" width="400"  />
+<img src="Images/skidpad2.gif" width="400"  />
 <td><ul>
 Learn How to Use MATLAB and Simulink for Student Projects
 <li><a href="https://www.mathworks.com/videos/series/robotics-education.html">Robotics</a>, <a href="https://www.mathworks.com/videos/series/perception.html">Perception</a>, <a href="https://www.mathworks.com/videos/series/implementation.html">Implementation</a></li>
