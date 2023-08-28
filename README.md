@@ -343,7 +343,7 @@ Click on the icon in the table below to access a wealth of additional resources 
 - [Discipline or Industry Specific Resources](https://www.mathworks.com/solutions.html?s_tid=gn_sol)
 - [Product-Specific Support](https://www.mathworks.com/help/?s_tid=gn_supp)
 - [Additional Online Courses with edX, COURSERA, and more!](https://www.mathworks.com/learn/training/moocs.html?s_tid=ln_acad_learn_mooc)
-- [Industry User Stories](https://www.mathworks.com/company/customer-stories.html?s_tid=hp_ff_a_customerstories)
+- [Industry User Stories](https://www.mathworks.com/company/user_stories/search.html?q=&page=1)
   
 
 ## Student Programs :trophy:
