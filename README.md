@@ -160,7 +160,7 @@ Find Answers, Learn, and Share Your Knowledge
 
 </tr>
 <tr class="odd">
-<td> <b><a href="https://www.mathworks.com/academia/student-competitions/tutorials-videos.html">Videos and Tutorials for Student Projects<b> <br>
+<td> <b> Videos and Tutorials for Student Projects <b> <br>
 <img src="Images/skidpad2.gif" width="400"  />
 <td><ul>
 Learn How to Use MATLAB and Simulink for Student Projects
@@ -170,6 +170,7 @@ Learn How to Use MATLAB and Simulink for Student Projects
 <li><a href="https://www.mathworks.com/videos/series/hybrid-electric-vehicles.html">Hybrid Electric Vehicles</a></li>
 <li><a href="https://www.mathworks.com/videos/series/aerospace.html">Aerospace</a></li>
 <li><a href="https://www.mathworks.com/videos/series/improving-your-racecar-development-101027.html">Automotive System Development</a></li>
+<li><a href="https://www.mathworks.com/academia/student-competitions/tutorials-videos.html?s_tid=ln_acad_programs_tutorials">All Student Project Tutorials</a></li>
 </ul></td>
 </tr>
 
