@@ -43,7 +43,7 @@ What is Simulink?
 <li><a href="https://www.youtube.com/watch?v=GvRugdEICyQ">Simulink Overview</a></li>
 <li><a href="https://www.mathworks.com/help/simulink/getting-started-with-simulink.html">Get Started with Simulink Documentation</a></li>
 <br>
-[Full MATLAB & Simulink Documentation](https://www.mathworks.com/help/?s_tid=gn_supp)
+<a href="https://www.mathworks.com/help/?s_tid=gn_supp">Full MATLAB & Simulink Documentation</a>
 <br>
 <br>
 Check to see if your school has a campus wide-license:
