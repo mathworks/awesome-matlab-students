@@ -85,18 +85,18 @@ Complimentary 2-hour Simulink tutorials for
 <td><ul>
 
 Check out our Cheat Sheet Repository to help you learn the following topics
-- [MATLAB Basic Fucntions](https://insidelabs-git.mathworks.com/bpasquar/awesome-matlab-students/-/blob/main/CheatSheets/matlab-basic-functions-reference.pdf) 
-- [Visualization](https://insidelabs-git.mathworks.com/bpasquar/awesome-matlab-students/-/blob/main/CheatSheets/MATLAB_Visualization_Reference_EN.pdf)
-- [Importing data](https://insidelabs-git.mathworks.com/bpasquar/awesome-matlab-students/-/blob/main/CheatSheets/importing-exporting-data-cheat-sheet.pdf)
-- [Deep Learning](https://insidelabs-git.mathworks.com/bpasquar/awesome-matlab-students/-/blob/main/CheatSheets/deep-learning-with-matlab-quick-start-guide.pdf)
-- [Using MATLAB with Python](https://insidelabs-git.mathworks.com/bpasquar/awesome-matlab-students/-/blob/main/CheatSheets/using-matlab-with-python-cheat-sheet.pdf)
-- [Machine Learning](https://insidelabs-git.mathworks.com/bpasquar/awesome-matlab-students/-/blob/main/CheatSheets/machine-learning-quick-start-guide.pdf)
-- [MATLAB for Python Users](https://insidelabs-git.mathworks.com/bpasquar/awesome-matlab-students/-/blob/main/CheatSheets/matlab-for-python-users-cheat-sheet.pdf)
-- [Live Editor](https://insidelabs-git.mathworks.com/bpasquar/awesome-matlab-students/-/blob/main/CheatSheets/live-editor-quick-start-guide.pdf)
+- [MATLAB Basic Fucntions](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/matlab-basic-functions-reference.pdf) 
+- [Visualization](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/MATLAB_Visualization_Reference_EN.pdf)
+- [Importing data](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/importing-exporting-data-cheat-sheet.pdf)
+- [Deep Learning](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/deep-learning-with-matlab-quick-start-guide.pdf)
+- [Using MATLAB with Python](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/using-matlab-with-python-cheat-sheet.pdf)
+- [Machine Learning](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/machine-learning-quick-start-guide.pdf)
+- [MATLAB for Python Users](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/matlab-for-python-users-cheat-sheet.pdf)
+- [Live Editor](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/live-editor-quick-start-guide.pdf)
 - and more!
 <br>
 
-[All Cheat Sheets](CheatSheets)
+[All Cheat Sheets](https://github.com/mathworks/awesome-matlab-students/tree/main/CheatSheets)
   
 </ul></td>
 
