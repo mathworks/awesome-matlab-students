@@ -85,7 +85,7 @@ Complimentary 2-hour Simulink tutorials for
 <td><ul>
 
 Check out our Cheat Sheet Repository to help you learn the following topics
-- [MATLAB Basic Fucntions](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/matlab-basic-functions-reference.pdf) 
+- [MATLAB Basic Functions](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/matlab-basic-functions-reference.pdf) 
 - [Visualization](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/MATLAB_Visualization_Reference_EN.pdf)
 - [Importing data](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/importing-exporting-data-cheat-sheet.pdf)
 - [Deep Learning](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/deep-learning-with-matlab-quick-start-guide.pdf)
