@@ -247,7 +247,7 @@ More than 2,000 titles available for Students!
 ## Self-Paced Onramps
 **Discover and Elevate Your Skills with MATLAB and Simulink Onramps**
 
-MATLAB and Simulink onramps offer a remarkable opportunity to explore a wide range of topics according to your interests and preferred pace. These onramps are designed to be flexible, allowing you to complete them at your convenience while effectively guiding you through various learning objectives. By immersing yourself in these onramps, you can unlock the power of MATLAB and Simulink, elevating your engineering and science skills to new heights.
+[MATLAB and Simulink Onramps](https://matlabacademy.mathworks.com/?s_tid=ln_acad_learn_oc#getting-started) offer a remarkable opportunity to explore a wide range of topics according to your interests and preferred pace. These onramps are designed to be flexible, allowing you to complete them at your convenience while effectively guiding you through various learning objectives. By immersing yourself in these onramps, you can unlock the power of MATLAB and Simulink, elevating your engineering and science skills to new heights.
 
 | Machine Learning Onramp | Deep Learning Onramp | Circuit Simulation Onramp | Reinforcement Learning Onramp |
 |-------------------------|---------------------|--------------------------|------------------------------|
@@ -345,7 +345,7 @@ Click on the icon in the table below to access a wealth of additional resources 
 - [MATLAB and Simulink Webinars/Videos](https://www.mathworks.com/videos.html)
 - [Discipline or Industry Specific Resources](https://www.mathworks.com/solutions.html?s_tid=gn_sol)
 - [Product-Specific Support](https://www.mathworks.com/help/?s_tid=gn_supp)
-- [Additional Online Courses with edX, COURSERA, and more!](https://www.mathworks.com/learn/training/moocs.html?s_tid=ln_acad_learn_mooc)
+- Additional Online Courses with [edX](https://www.edx.org/school/mathworks) and [COURSERA!](https://www.coursera.org/mathworks)
 - [Industry User Stories](https://www.mathworks.com/company/user_stories/search.html?q=&page=1)
 - [External Language Interfaces](https://www.mathworks.com/help/matlab/external-language-interfaces.html)
   
