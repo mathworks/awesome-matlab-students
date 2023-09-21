@@ -7,7 +7,7 @@
 
 # MATLAB and Simulink for Students :school: :books: :computer: [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a student society in search of engaging workshops? Or perhaps you're looking for opportunities to test your MATLAB skills through student competitions or challenges? Look no further! Our repository below is a resource that caters to all these needs. Whether you're starting from scratch or aiming to enhance your existing knowledge, you'll find a wealth of information to help you learn MATLAB and make progress on your journey as a student. Explore the repository now and unlock the potential of MATLAB!
+Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a student society in search of engaging workshops? Or perhaps you're looking for opportunities to test your MATLAB skills through student competitions or challenges? Look no further! Our awesome list repository below is a resource that caters to all these needs. Whether you're starting from scratch or aiming to enhance your existing knowledge, you'll find a wealth of information to help you learn MATLAB and make progress on your journey as a student. Explore the repository now and unlock the potential of MATLAB!
 
 ## Table of Contents
 
