@@ -16,7 +16,7 @@ Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a
   - [Cheat Sheets](#cheat-sheets-blue_book-pencil2)
 - [Academic Discipline Specific Resources](#discipline-specific-resources-airplane-racing_car-robot-microscope)
 - [Student Programs and Competitions](#student-programs-trophy)
-  - [Hackathons and Capstone Projects](#related-github-resources-for-student-projects-and-hackathons)
+  - [Hackathons and Capstone Projects](#related-matlab-github-resources-for-students)
   - [Student Societies and Clubs](#resources-for-student-societies-and-student-clubs)
 - [What's New in MATLAB and Simulink](#whats-new-in-matlab-and-simulink)
 - [Student Career Opportunities](#student-career-opportunities-briefcase)
