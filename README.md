@@ -237,9 +237,18 @@ More than 2,000 titles available for Students!
 </ul></td>
 </tr>
 
-</tbody>
-</table>
-
+<tr class="odd">
+<td> <b>Student Announcement: Simulink Student Challenge for 2023 is Live! <b> <br>
+<img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/academia/student-challenges/simulink-student-challenge-logo-561x227.png" width="400"  />
+<td><ul>
+Create a short original video that includes:
+<li>A demonstration of how you used Simulink </li>
+<li>Upload your video to YouTube or Bilibili (China only) with the tag “#SimulinkChallenge2023” in the title of your video. </li>
+<li>Submit an entry form by December 12, 2023 (1 p.m. ET) </li>
+<li>Show off your projects that use Simulink and you could win up to $1,000 (USD)</li>
+<li><a href="https://www.mathworks.com/academia/student-challenge/simulink-student-challenge-2023.html">Submit your Simulink Entry</a></li>
+</ul></td>
+</tr>
 
 </tbody>
 </table>
