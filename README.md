@@ -238,7 +238,7 @@ More than 2,000 titles available for Students!
 </tr>
 
 <tr class="odd">
-<td> <b>Student Announcement: Simulink Student Challenge for 2023 is Live! <b> <br>
+<td> <b>Student Announcement: Simulink Student Challenge for 2023 is Live!<b> <br>
 <img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/academia/student-challenges/simulink-student-challenge-logo-561x227.png" width="400"  />
 <td><ul>
 Create a short original video that includes:
