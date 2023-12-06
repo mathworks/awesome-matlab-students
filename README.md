@@ -407,7 +407,8 @@ Please note that while MathWorks cannot offer financial support or prizes for th
 - Check out the MATLAB Expo 2023 featured presentations [here!](https://www.matlabexpo.com/online/2023/proceedings.html)
 - Learn how to use [Live Editor](https://www.mathworks.com/products/matlab/live-editor.html)
 - [MATLAB Kernel for Jupyter](https://blogs.mathworks.com/matlab/2023/06/26/matlab-kernel-for-jupyter-now-with-windows-support/?fbclid=IwAR2Hjrm0Lou-hhu53d_cBKE8irWb7vtb7KnkELjMAQgRA1Yk-9ePHRZRJY0)
-- [Try MatGPT!](https://www.mathworks.com/matlabcentral/fileexchange/126665-matgpt?s_tid=mlc_recom_leaf) MATLAB® app and class to access ChatGPT API from OpenAI™. 
+- [Try MatGPT!](https://www.mathworks.com/matlabcentral/fileexchange/126665-matgpt?s_tid=mlc_recom_leaf) MATLAB® app and class to access ChatGPT API from OpenAI™.
+- [MATLAB AI Chat Playground is now available](https://www.mathworks.com/matlabcentral/playground/new)
 
 ## Student Career Opportunities :briefcase:
 
