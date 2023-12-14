@@ -238,15 +238,11 @@ More than 2,000 titles available for Students!
 </tr>
 
 <tr class="odd">
-<td> <b>Student Announcement: Simulink Student Challenge for 2023 is Live!<b> <br>
-<img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/academia/student-challenges/simulink-student-challenge-logo-561x227.png" width="400"  />
+<td> <b>Student Announcement: Kelp Wanted! Segmenting Kelp Forests <b> <br>
+<img src="Images/kelp wanted.png" width="400"  />
 <td><ul>
-Create a short original video that includes:
-<li>A demonstration of how you used Simulink </li>
-<li>Upload your video to YouTube or Bilibili (China only) with the tag “#SimulinkChallenge2023” in the title of your video. </li>
-<li>Submit an entry form by December 12, 2023 (1 p.m. ET) </li>
-<li>Show off your projects that use Simulink and you could win up to $1,000 (USD)</li>
-<li><a href="https://www.mathworks.com/academia/student-challenge/simulink-student-challenge-2023.html">Submit your Simulink Entry</a></li>
+Looking for an opportunity to practice your AI skills on a real-world problem? Interested in AI for Climate Change? Sign up for the Kelp Wanted challenge, which tasks participants with developing an algorithm that can detect the presence of kelp forests from satellite images! Participants of all skill levels are welcome, and MathWorks provides starter code and complimentary MATLAB licenses for all participants to help them get started.
+<li><a href="https://www.drivendata.org/competitions/255/kelp-forest-segmentation/">Join the competition!</a></li>
 </ul></td>
 </tr>
 
