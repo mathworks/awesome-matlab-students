@@ -239,7 +239,7 @@ More than 2,000 titles available for Students!
 
 <tr class="odd">
 <td> <b>Student Announcement: Kelp Wanted! Segmenting Kelp Forests <b> <br>
-<img src="Images/kelp wanted.png" width="400"  />
+<img src="Images/kelpwanted.png" width="400"  />
 <td><ul>
 Looking for an opportunity to practice your AI skills on a real-world problem? Interested in AI for Climate Change? Sign up for the Kelp Wanted challenge, which tasks participants with developing an algorithm that can detect the presence of kelp forests from satellite images! Participants of all skill levels are welcome, and MathWorks provides starter code and complimentary MATLAB licenses for all participants to help them get started.
 <li><a href="https://www.drivendata.org/competitions/255/kelp-forest-segmentation/">Join the competition!</a></li>
