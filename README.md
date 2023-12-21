@@ -330,7 +330,7 @@ Explore this section to find a collection of featured cheat sheets that provide 
 
 <tr class="odd">
 <td> <b> Modeling Dynamic Systems with MATLAB and Simulink Cheat Sheet <b> <br>
-<a href="CheatSheets/modeling-dynamic-systems-cheat-sheet.png"><img src="Images/visualization.jpg" alt="Modeling Dynamic Systems" width="500"></a></td>
+<a href="CheatSheets/modeling-dynamic-systems-cheat-sheet.png"><img src="Images/modelingdynamicsystems.jpg" alt="Modeling Dynamic Systems" width="500"></a></td>
 <td><ul>
   
 [Modeling Dynamic Systems Cheat Sheet](CheatSheets/modeling-dynamic-systems-cheat-sheet.png) 
