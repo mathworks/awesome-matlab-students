@@ -328,6 +328,18 @@ Explore this section to find a collection of featured cheat sheets that provide 
 </ul></td>
 </tr>
 
+<tr class="odd">
+<td> <b> Modeling Dynamic Systems with MATLAB and Simulink Cheat Sheet <b> <br>
+<a href="CheatSheets/modeling-dynamic-systems-cheat-sheet.png"><img src="Images/visualization.jpg" alt="Modeling Dynamic Systems" width="500"></a></td>
+<td><ul>
+  
+[Modeling Dynamic Systems Cheat Sheet](CheatSheets/modeling-dynamic-systems-cheat-sheet.png) 
+<br>
+<br>
+[Explore more capabilities for modeling dynamic systems here](https://www.mathworks.com/solutions/control-systems/modeling-dynamic-systems.html?s_eid=PSM_17435)
+
+</ul></td>
+</tr>
 
 </tbody>
 </table>
