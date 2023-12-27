@@ -246,6 +246,15 @@ Looking for an opportunity to practice your AI skills on a real-world problem? I
 </ul></td>
 </tr>
 
+<tr class="odd">
+<td> <b> MATLAB AI Chat Playground <b> <br>
+<img src="Images/aiplayground.gif" width="400"  />
+<td><ul>
+Discover the future of coding with the MATLAB AI Chat Playground! Dive into Generative AI to swiftly draft code, solve intricate problems, and accelerate your MATLAB projects like never before. 
+<li><a href="https://www.mathworks.com/matlabcentral/playground">The MATLAB AI Chat Playground is ready for you to experiment with Generative AI, answer questions, and write initial draft MATLAB® code. </a></li>
+</ul></td>
+</tr>
+
 </tbody>
 </table>
 
