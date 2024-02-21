@@ -238,11 +238,11 @@ More than 2,000 titles available for Students!
 </tr>
 
 <tr class="odd">
-<td> <b>Student Announcement: Kelp Wanted! Segmenting Kelp Forests <b> <br>
-<img src="Images/kelpwanted.png" width="400"  />
+<td> <b>Student Announcement: Hone Your Data Science Skills in the WiDS Datathon! <b> <br>
+<img src="Images/datathononcology.png" width="400"  />
 <td><ul>
-Looking for an opportunity to practice your AI skills on a real-world problem? Interested in AI for Climate Change? Sign up for the Kelp Wanted challenge, which tasks participants with developing an algorithm that can detect the presence of kelp forests from satellite images! Participants of all skill levels are welcome, and MathWorks provides starter code and complimentary MATLAB licenses for all participants to help them get started.
-<li><a href="https://www.drivendata.org/competitions/255/kelp-forest-segmentation/">Join the competition!</a></li>
+The WiDS Datathon is an opportunity to discover and hone data science skills while solving an interesting and critical social impact challenge. Whether you are an aspiring data scientist or a data science enthusiast, WiDS provides a supportive environment for participants to connect, share interests, learn from, help each other, and have a lot of fun!
+<li><a href="https://www.widsworldwide.org/learn/datathon/">Join the competition!</a></li>
 </ul></td>
 </tr>
 
