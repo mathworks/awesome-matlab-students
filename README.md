@@ -374,6 +374,7 @@ Click on the icon in the table below to access a wealth of additional resources 
 - Additional Online Courses with [edX](https://www.edx.org/school/mathworks) and [COURSERA!](https://www.coursera.org/mathworks)
 - [Industry User Stories](https://www.mathworks.com/company/user_stories/search.html?q=&page=1)
 - [External Language Interfaces](https://www.mathworks.com/help/matlab/external-language-interfaces.html)
+- [MATLAB Extension for Visual Studio Code](https://github.com/mathworks/matlab-extension-for-vscode)
   
 
 ## Student Programs :trophy:
