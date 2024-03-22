@@ -421,6 +421,18 @@ Please note that while MathWorks cannot offer financial support or prizes for th
 
 ## What's New in MATLAB and Simulink?
 
+<table>
+<tr>
+<td>
+
+<a href="CheatSheets/R2024a-cheat-sheet.pdf">
+  <img src="Images/R2024a.jpg" alt="R2024a" width="350">
+</a>
+
+</td>
+</tr>
+</table>
+
 - Check out new features and updates in the latest MATLAB Release [here!](https://www.mathworks.com/products/new_products/latest_features.html)
 - Check out the MATLAB Expo 2023 featured presentations [here!](https://www.matlabexpo.com/online/2023/proceedings.html)
 - Learn how to use [Live Editor](https://www.mathworks.com/products/matlab/live-editor.html)
