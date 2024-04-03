@@ -350,6 +350,20 @@ Explore this section to find a collection of featured cheat sheets that provide 
 </ul></td>
 </tr>
 
+<tr class="odd">
+<td> <b> Capabilities for Designing Feedback Control Systems <b> <br>
+<a href="CheatSheets/feedback-control-design-cheat-sheet.png"><img src="Images/controldesign.png" alt="Control Systems" width="500"></a></td>
+<td><ul>
+  
+[Capabilities for Designing Feedback Control Systems](CheatSheets/feedback-control-design-cheat-sheet.png) 
+<br>
+<br>
+[Explore more capabilities for designing and tuning controllers here](https://www.mathworks.com/solutions/control-systems/modeling-dynamic-systems.html?s_eid=PSM_17435)
+
+</ul></td>
+</tr>
+
+
 </tbody>
 </table>
 
