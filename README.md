@@ -388,7 +388,6 @@ Click on the icon in the table below to access a wealth of additional resources 
 - Additional Online Courses with [edX](https://www.edx.org/school/mathworks) and [COURSERA!](https://www.coursera.org/mathworks)
 - [Industry User Stories](https://www.mathworks.com/company/user_stories/search.html?q=&page=1)
 - [External Language Interfaces](https://www.mathworks.com/help/matlab/external-language-interfaces.html)
-- [MATLAB Extension for Visual Studio Code](https://github.com/mathworks/matlab-extension-for-vscode)
   
 
 ## Student Programs :trophy:
@@ -438,12 +437,16 @@ Please note that while MathWorks cannot offer financial support or prizes for th
 <table>
 <tr>
 <td>
-
-<a href="CheatSheets/R2024a-cheat-sheet.pdf">
-  <img src="Images/R2024a.jpg" alt="R2024a" width="350">
-</a>
-
+<div style="display: flex;">
+  <a href="CheatSheets/R2024a-cheat-sheet.pdf" style="margin-right: 80px;">
+    <img src="Images/R2024a.jpg" alt="R2024a Cheat Sheet" width="350">
+  </a>
+  <a href="CheatSheets/R2024a-ai-cheat-sheet.pdf">
+    <img src="Images/AIR2024a.jpg" alt="AI for R2024a" width="350">
+  </a>
+</div>
 </td>
+
 </tr>
 </table>
 
@@ -453,6 +456,7 @@ Please note that while MathWorks cannot offer financial support or prizes for th
 - [MATLAB Kernel for Jupyter](https://blogs.mathworks.com/matlab/2023/06/26/matlab-kernel-for-jupyter-now-with-windows-support/?fbclid=IwAR2Hjrm0Lou-hhu53d_cBKE8irWb7vtb7KnkELjMAQgRA1Yk-9ePHRZRJY0)
 - [Try MatGPT!](https://www.mathworks.com/matlabcentral/fileexchange/126665-matgpt?s_tid=mlc_recom_leaf) MATLAB® app and class to access ChatGPT API from OpenAI™.
 - [MATLAB AI Chat Playground is now available](https://www.mathworks.com/matlabcentral/playground/new)
+- [MATLAB Extension for Visual Studio Code](https://github.com/mathworks/matlab-extension-for-vscode)
 
 ## Student Career Opportunities :briefcase:
 
