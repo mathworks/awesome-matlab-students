@@ -234,6 +234,7 @@ Ask questions, learn from others, and get ideas by joining our communities below
 <td><ul>
 More than 2,000 titles available for Students! 
 <li><a href="https://www.mathworks.com/academia/books.html?s_tid=ln_acad_learn_books">Explore our book list</a></li>
+<li><a href="https://github.com/yanndebray/matlab-with-python-book/">New MATLAB with Python Book!</a></li>
 </ul></td>
 </tr>
 
