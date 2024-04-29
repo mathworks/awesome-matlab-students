@@ -18,6 +18,7 @@ Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a
 - [Student Programs and Competitions](#student-programs-trophy)
   - [Hackathons and Capstone Projects](#related-matlab-github-resources-for-students)
   - [Student Societies and Clubs](#resources-for-student-societies-and-student-clubs)
+  - [Interactive Examples and Fun Animations](#interactive-and-fun-matlab-examples)
 - [What's New in MATLAB and Simulink](#whats-new-in-matlab-and-simulink)
 - [Student Career Opportunities](#student-career-opportunities-briefcase)
 - [Student License for MATLAB](#need-a-student-license-of-matlab)
@@ -259,6 +260,7 @@ Discover the future of coding with the MATLAB AI Chat Playground! Dive into Gene
 </tbody>
 </table>
 
+---
 ## Self-Paced Onramps
 **Discover and Elevate Your Skills with MATLAB and Simulink Onramps**
 
@@ -280,6 +282,7 @@ Discover the future of coding with the MATLAB AI Chat Playground! Dive into Gene
 |---------------|-----------------|
 | [![mlonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/matlab-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) | [![simulinkonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/academia/student-competitions/minidrone-competition/simulink-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) |
 
+---
 ## Cheat Sheets :blue_book: :pencil2:
 
 ​​**Master MATLAB Functions and Commands with Featured Cheat Sheets**
@@ -368,6 +371,7 @@ Explore this section to find a collection of featured cheat sheets that provide 
 </tbody>
 </table>
 
+---
 ## Discipline-Specific Resources :airplane: :racing_car: :robot: :microscope:
 
 **Explore Additional Resources for Your Academic Discipline**
@@ -390,7 +394,8 @@ Click on the icon in the table below to access a wealth of additional resources 
 - Additional Online Courses with [edX](https://www.edx.org/school/mathworks) and [COURSERA!](https://www.coursera.org/mathworks)
 - [Industry User Stories](https://www.mathworks.com/company/user_stories/search.html?q=&page=1)
 - [External Language Interfaces](https://www.mathworks.com/help/matlab/external-language-interfaces.html)
-  
+
+---
 
 ## Student Programs :trophy:
 **Explore Exciting Student Competitions, Hackathons, and Minidrone Contests!**
@@ -405,6 +410,7 @@ Unleash your creativity and passion by discovering a world of student competitio
 
 [![Student Programs](Images/studentprograms.png)](https://www.mathworks.com/academia/students.html?s_tid=ln_acad_programs_overview)
 
+---
 ## Related MATLAB GitHub Resources for Students 
 
 **MATLAB and Simulink Challenge Projects: Contribute to the progress of engineering and science by solving key industry challenges!**
@@ -421,6 +427,7 @@ If you're interested in joining one of our sponsored Hackathons, we have somethi
 
 A list of awesome demos, tutorials, utilities, and overall resources for the robotics community that use MATLAB® and Simulink®: [Awesome MATLAB Robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics)
 
+---
 ## Resources for Student Societies and Student Clubs
 
 **Host an Engaging MATLAB or Simulink Workshop for Your Student Society or Club!**
@@ -432,6 +439,37 @@ Please note that while MathWorks cannot offer financial support or prizes for th
 | **MATLAB Onramp Party Resources** | **Cody Competition Resources** |
 | :---: | :---: |
 | <p align="center"><img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/tutorials/matlab-onramp.png" alt="mlonramp" width="250" /></p><br>- [Onramp Toolkit](https://github.com/mathworks/awesome-matlab-students/tree/main/Student%20Societies%20and%20Clubs/Onramp%20Toolkit)<br>- [How to host an Onramp Party Guide](https://github.com/mathworks/awesome-matlab-students/blob/main/Student%20Societies%20and%20Clubs/Onramp%20Toolkit/1_How_to_Run_an_Onramp_Party.docx)<br>- [Example Presentations](https://github.com/mathworks/awesome-matlab-students/tree/main/Student%20Societies%20and%20Clubs/Onramp%20Toolkit/Example%20Presentations) | <p align="center"><img src="Images/cody.png" alt="cody" width="200" /></p><br>- [Cody Competition Toolkit](https://github.com/mathworks/awesome-matlab-students/tree/70cd61430cbcc0b3de12257c12f5bbd0450c6e5c/Student%20Societies%20and%20Clubs/Cody%20Competition)
+
+---
+
+## Interactive and Fun MATLAB Examples
+
+Dive into the vibrant world of MATLAB with this curated collection of interactive examples and delightful animations. Perfect for both beginners keen on mastering the basics and experienced users in search of entertainment, this assortment offers a unique blend of learning and fun.
+
+### 🎲 MATLAB Interactive Examples
+
+Embark on an educational journey with interactive MATLAB sessions designed to make learning both fun and effective. Explore the links below to begin your adventure!
+
+| Example | Description |  |
+|---------|-------------|-------|
+| [**All Interactive Module Examples**](https://www.mathworks.com/matlabcentral/fileexchange/?term=tag:%22courseware+module%22) | A vast collection of interactive MATLAB examples. Ideal for watching and learning. | <img src="Images/fourieranalysis.jpg" width="250" alt="MATLAB Interactive Examples" /> |
+| [**Treasure Hunt**](https://www.mathworks.com/matlabcentral/fileexchange/123265-treasure-hunt?s_tid=srchtitle) | Set off on a coding quest to uncover hidden treasures. | <img src="Images/treasure.png" width="250" alt="Treasure Hunt" /> |
+| [**Machine Learning Methods: Clustering**](https://www.mathworks.com/matlabcentral/fileexchange/135381-machine-learning-methods-clustering?s_tid=srchtitle) | Get hands-on with the fundamentals of clustering in MATLAB. | <img src="Images/penguin.png" width="250" alt="Clustering" /> |
+| [**Fundamentals of Programming**](https://www.mathworks.com/matlabcentral/fileexchange/103225-fundamentals-of-programming) | Build a solid programming foundation with this guide. | <img src="Images/fundamentals.png" width="250" alt="Programming Basics" /> |
+| [**Programming a Starter Project Using MATLAB and Python**](https://www.mathworks.com/matlabcentral/fileexchange/116490-programming-a-starter-project-using-matlab-and-python?s_tid=srchtitle) | Begin your programming journey with MATLAB and Python. | <img src="Images/mlpy.png" width="250" alt="MATLAB and Python" /> |
+
+### 🎥 Fun MATLAB Animations
+
+Take a break with these MATLAB animations and GIFs, perfect for a light-hearted diversion during your coding endeavors.
+
+| Animation | Description | Image |
+|-----------|-------------|-------|
+| [**Fun MATLAB Animation Code**](Fun%20Examples/MATLAB%20Animations) | Code compilation of engaging MATLAB animations. | <img src="Images/Eigenwalker.gif" width="250" alt="MATLAB Animations Code" /> |
+| [**MATLAB Gifs**](Fun%20Examples/MATLAB%20Animations/Gifs) | A showcase of MATLAB's graphical prowess through GIFs. Note, these are the outputs from the code folder above | <img src="Images/Bucky_Ball.gif" width="250" alt="Fun MATLAB Animations" /> |
+
+---
+
+We hope you enjoy exploring these interactive and fun MATLAB examples and animations. They are designed to inspire, educate, and entertain. Happy coding!
 
 
 ## What's New in MATLAB and Simulink?
@@ -460,6 +498,7 @@ Please note that while MathWorks cannot offer financial support or prizes for th
 - [MATLAB AI Chat Playground is now available](https://www.mathworks.com/matlabcentral/playground/new)
 - [MATLAB Extension for Visual Studio Code](https://github.com/mathworks/matlab-extension-for-vscode)
 
+---
 ## Student Career Opportunities :briefcase:
 
 **Join MathWorks and Explore Exciting Career Opportunities!**
@@ -474,12 +513,14 @@ Additionally, if you're currently enrolled as a student with over a year left be
 
 Discover inspiring stories of how students have leveraged MATLAB and Simulink to achieve success in their careers. Check out their stories [here!](https://blogs.mathworks.com/student-lounge/category/where-are-they-now/?s_tid=Blog_student-lounge_Category)
 
+---
 ## Need a Student License of MATLAB?
 
 **Discover if Your School Provides Access to MATLAB & Simulink!**
 
 Curious to know if your school provides access to MATLAB & Simulink? Visit our [Student License page](https://www.mathworks.com/products/matlab/student.html) to find out! Alternatively, if that option doesn't work for you, we also provide an educationally priced MATLAB and Simulink Student Suite License. This license is specifically designed for students and offers a comprehensive set of tools at a discounted rate.
 
+---
 ## Where to go to get help?
 
 **Need Assistance? Get in Touch with Our Support Team!**
