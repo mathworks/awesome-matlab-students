@@ -444,11 +444,11 @@ Please note that while MathWorks cannot offer financial support or prizes for th
 
 ## Interactive and Fun MATLAB Examples
 
-Dive into the vibrant world of MATLAB with this curated collection of interactive examples and delightful animations. Perfect for both beginners keen on mastering the basics and experienced users in search of entertainment, this assortment offers a unique blend of learning and fun.
+Use this curated collection of interactive examples and animations to further your knowledge of MATLAB. Perfect for both beginners keen on mastering the basics and experienced users in search of entertainment, this assortment offers a unique blend of learning and fun.
 
 ### 🎲 MATLAB Interactive Examples
 
-Embark on an educational journey with interactive MATLAB sessions designed to make learning both fun and effective. Explore the links below to begin your adventure!
+Embark on an educational journey with interactive MATLAB sessions designed to make learning both fun and effective. These can be great to use if you are part of a student society or club and are looking to do a workshop with students. 
 
 | Example | Description |  |
 |---------|-------------|-------|
@@ -462,7 +462,7 @@ Embark on an educational journey with interactive MATLAB sessions designed to ma
 
 Take a break with these MATLAB animations and GIFs, perfect for a light-hearted diversion during your coding endeavors.
 
-| Animation | Description | Image |
+| Animation | Description |  |
 |-----------|-------------|-------|
 | [**Fun MATLAB Animation Code**](Fun%20Examples/MATLAB%20Animations) | Code compilation of engaging MATLAB animations. | <img src="Images/Eigenwalker.gif" width="250" alt="MATLAB Animations Code" /> |
 | [**MATLAB Gifs**](Fun%20Examples/MATLAB%20Animations/Gifs) | A showcase of MATLAB's graphical prowess through GIFs. Note, these are the outputs from the code folder above | <img src="Images/Bucky_Ball.gif" width="250" alt="Fun MATLAB Animations" /> |
