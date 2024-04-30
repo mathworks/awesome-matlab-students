@@ -211,6 +211,7 @@ Ask questions, learn from others, and get ideas by joining our communities below
 <li><a href="https://discord.com/invite/TsDarpu">Discord</a></li>
 <li><a href="https://www.reddit.com/r/matlab/">Reddit</a></li>
 <li><a href="https://www.instagram.com/matlab/">Instagram</a></li>
+<li><a href="https://www.instagram.com/matlab_students/">Student Focused Instagram</a></li>
 <li><a href="https://www.facebook.com/MATLAB">Facebook</a></li>
 
 </ul></td>
@@ -505,11 +506,11 @@ We hope you enjoy exploring these interactive and fun MATLAB examples and animat
 
 **Internships and Recent Graduates:**
 
-If you're interested in joining MathWorks, we have a range of exciting full-time and internship opportunities for students. Visit our [students and recent graduates careers page](https://www.mathworks.com/company/jobs/students.html?s_tid=cr_nav_ov) to explore the possibilities.
+If you're interested in joining MathWorks, we have a range of exciting full-time and internship opportunities for students. Visit our [**students and recent graduates careers page**](https://www.mathworks.com/company/jobs/students.html?s_tid=cr_nav_ov) to explore the possibilities.
 
 **On-Campus Job Opportunities: Become a MATLAB Student Ambassador!**
 
-Additionally, if you're currently enrolled as a student with over a year left before graduation, consider becoming a [MATLAB Student Ambassador](https://www.mathworks.com/academia/students/student-ambassadors.html) on your campus. Discover how you can make an impact and represent MathWorks within your academic community.
+Additionally, if you're currently enrolled as a student with over a year left before graduation, consider becoming a [**MATLAB Student Ambassador**](https://www.mathworks.com/academia/students/student-ambassadors.html) on your campus. Discover how you can make an impact and represent MathWorks within your academic community.
 
 Discover inspiring stories of how students have leveraged MATLAB and Simulink to achieve success in their careers. Check out their stories [here!](https://blogs.mathworks.com/student-lounge/category/where-are-they-now/?s_tid=Blog_student-lounge_Category)
 
@@ -518,11 +519,19 @@ Discover inspiring stories of how students have leveraged MATLAB and Simulink to
 
 **Discover if Your School Provides Access to MATLAB & Simulink!**
 
-Curious to know if your school provides access to MATLAB & Simulink? Visit our [Student License page](https://www.mathworks.com/products/matlab/student.html) to find out! Alternatively, if that option doesn't work for you, we also provide an educationally priced MATLAB and Simulink Student Suite License. This license is specifically designed for students and offers a comprehensive set of tools at a discounted rate.
+Curious to know if your school provides access to MATLAB & Simulink? Visit our [**Student License page**](https://www.mathworks.com/products/matlab/student.html) to find out! Alternatively, if that option doesn't work for you, we also provide an educationally priced MATLAB and Simulink Student Suite License. This license is specifically designed for students and offers a comprehensive set of tools at a discounted rate.
+
+**🚀 Special Licensing for Student Startups, Accelerators, and Incubators**
+
+If you're involved in a student startup, part of an accelerator, or incubator program, we have exciting news for you! We offer special licensing options for MATLAB and Simulink, tailored to meet the needs of emerging companies.
+
+Learn more about how MATLAB and Simulink can support your startup's journey:
+
+[**Explore MATLAB and Simulink for Startups**](https://www.mathworks.com/products/startups.html)
 
 ---
 ## Where to go to get help?
 
 **Need Assistance? Get in Touch with Our Support Team!**
 
-Students: Technical support from MathWorks is available for activation, installation and bug-related issues. For additional help visit our student resources above or contact your instructor.  [Reach out to our dedicated support team](https://www.mathworks.com/support/contact_us.html?s_tid=hc_trail).
+Students: Technical support from MathWorks is available for activation, installation and bug-related issues. For additional help visit our student resources above or contact your instructor.  [**Reach out to our dedicated support team**](https://www.mathworks.com/support/contact_us.html?s_tid=hc_trail).
