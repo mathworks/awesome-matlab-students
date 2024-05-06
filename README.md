@@ -466,11 +466,11 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 | Animation | Description |  |
 |-----------|-------------|-------|
 | [**Fun MATLAB Animation Code**](Fun%20Examples/MATLAB%20Animations) | Code compilation of engaging MATLAB animations. | <img src="Images/Eigenwalker.gif" width="250" alt="MATLAB Animations Code" /> |
-| [**MATLAB Gifs**](Fun%20Examples/MATLAB%20Animations/Gifs) | A showcase of MATLAB's graphical prowess through GIFs. Note, these are the outputs from the code folder above | <img src="Images/Bucky_Ball.gif" width="250" alt="Fun MATLAB Animations" /> |
+| [**MATLAB Gifs**](Fun%20Examples/MATLAB%20Animations/Gifs) | A showcase of MATLAB's graphical prowess through GIFs. Note, these are the outputs from the code folder above. | <img src="Images/Bucky_Ball.gif" width="250" alt="Fun MATLAB Animations" /> |
 
 ---
 
-We hope you enjoy exploring these interactive and fun MATLAB examples and animations. They are designed to inspire, educate, and entertain. Happy coding!
+
 
 
 ## What's New in MATLAB and Simulink?
@@ -510,7 +510,11 @@ If you're interested in joining MathWorks, we have a range of exciting full-time
 
 **On-Campus Job Opportunities: Become a MATLAB Student Ambassador!**
 
-Additionally, if you're currently enrolled as a student with over a year left before graduation, consider becoming a [**MATLAB Student Ambassador**](https://www.mathworks.com/academia/students/student-ambassadors.html) on your campus. Discover how you can make an impact and represent MathWorks within your academic community.
+If you're currently enrolled as a student with over a year left before graduation, consider becoming a [**MATLAB Student Ambassador**](https://www.mathworks.com/academia/students/student-ambassadors.html) on your campus. Discover how you can make an impact and represent MathWorks within your academic community.
+<br>
+<p align="center">
+  <img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/academia/students/matlab-student-ambassador-horizontal-logo.jpg" width="200">
+</p>
 
 Discover inspiring stories of how students have leveraged MATLAB and Simulink to achieve success in their careers. Check out their stories [here!](https://blogs.mathworks.com/student-lounge/category/where-are-they-now/?s_tid=Blog_student-lounge_Category)
 
