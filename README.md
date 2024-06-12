@@ -241,20 +241,21 @@ More than 2,000 titles available for Students!
 </tr>
 
 <tr class="odd">
-<td> <b>Student Announcement: Hone Your Data Science Skills in the WiDS Datathon! <b> <br>
-<img src="Images/datathononcology.png" width="400"  />
+<td> <b>Student Announcement: The Sustainability and Renewable Energy Challenge is now open! <b> <br>
+<img src="Images/energychallenge.jpg" width="400"  />
 <td><ul>
-The WiDS Datathon is an opportunity to discover and hone data science skills while solving an interesting and critical social impact challenge. Whether you are an aspiring data scientist or a data science enthusiast, WiDS provides a supportive environment for participants to connect, share interests, learn from, help each other, and have a lot of fun!
-<li><a href="https://www.widsworldwide.org/learn/datathon/">Join the competition!</a></li>
+We are excited to announce the second edition of the MathWorks Sustainability and Renewable Energy Challenge! We invite you to submit innovative solutions to environmental challenges related to sustainability and renewable energy. Select a project from our list and submit a solution to be eligible to win up to $1,000 (USD).
+<li><a href="https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2024.html">Join the competition!</a></li>
 </ul></td>
 </tr>
 
 <tr class="odd">
-<td> <b> MATLAB AI Chat Playground <b> <br>
+<td> <b> MATLAB AI Chat Playground and ChatGPT <b> <br>
 <img src="Images/aiplayground.gif" width="400"  />
 <td><ul>
 Discover the future of coding with the MATLAB AI Chat Playground! Dive into Generative AI to swiftly draft code, solve intricate problems, and accelerate your MATLAB projects like never before. 
 <li><a href="https://www.mathworks.com/matlabcentral/playground">The MATLAB AI Chat Playground is ready for you to experiment with Generative AI, answer questions, and write initial draft MATLAB® code. </a></li>
+<li><a href="https://chatgpt.com/g/g-QFTjbeK3U-matlab"> MATLAB GPT is now available on the OpenAI GPT Store </a></li>
 </ul></td>
 </tr>
 
@@ -499,6 +500,7 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 - [Try MatGPT!](https://www.mathworks.com/matlabcentral/fileexchange/126665-matgpt?s_tid=mlc_recom_leaf) MATLAB® app and class to access ChatGPT API from OpenAI™.
 - [MATLAB AI Chat Playground is now available](https://www.mathworks.com/matlabcentral/playground/new)
 - [MATLAB Extension for Visual Studio Code](https://github.com/mathworks/matlab-extension-for-vscode)
+- [MATLAB GPT is now available on the OpenAI Store](https://chatgpt.com/g/g-QFTjbeK3U-matlab)
 
 ---
 ## Student Career Opportunities :briefcase:
