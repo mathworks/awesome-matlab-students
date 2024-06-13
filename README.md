@@ -451,7 +451,7 @@ Use this curated collection of interactive examples and animations to further yo
 
 ### 🎲 MATLAB Interactive Examples
 
-Embark on an educational journey with interactive MATLAB sessions designed to make learning both fun and effective. These can be great to use if you are part of a student society or club and are looking to do a workshop with students. 
+Embark on an educational journey with interactive MATLAB modules designed to make learning both fun and effective. These modules include theoretical background, interactive illustrations, knowledge exercises, reflection questions, and application examples for the concepts explored. These can be great to use if you are part of a student society or club and are looking to do a workshop with students.
 
 | Example | Description |  |
 |---------|-------------|-------|
