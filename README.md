@@ -20,6 +20,7 @@ Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a
   - [Student Societies and Clubs](#resources-for-student-societies-and-student-clubs)
   - [Interactive Examples and Fun Animations](#interactive-and-fun-matlab-examples)
 - [What's New in MATLAB and Simulink](#whats-new-in-matlab-and-simulink)
+  - [Use MATLAB with AI](#robot-how-to-use-matlab-with-ai)
 - [Student Career Opportunities](#student-career-opportunities-briefcase)
 - [Student License for MATLAB](#need-a-student-license-of-matlab)
 - [Need Support or Help?](#where-to-go-to-get-help)
@@ -483,7 +484,26 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 <div style="display: flex;">
   <a href="CheatSheets/R2024a-cheat-sheet.pdf" style="margin-right: 80px;">
     <img src="Images/R2024a.jpg" alt="R2024a Cheat Sheet" width="350">
-  </a>
+</div>
+</td>
+
+</tr>
+</table>
+
+| New MATLAB Resource | Link |
+|-------------|------|
+| Check out new features and updates in the latest MATLAB Release | [Release Notes!](https://www.mathworks.com/products/new_products/latest_features.html) |
+| Learn how to use Live Editor | [Live Editor](https://www.mathworks.com/products/matlab/live-editor.html) |
+| MATLAB Kernel for Jupyter | [MATLAB + Jupyter](https://blogs.mathworks.com/matlab/2023/06/26/matlab-kernel-for-jupyter-now-with-windows-support/?fbclid=IwAR2Hjrm0Lou-hhu53d_cBKE8irWb7vtb7KnkELjMAQgRA1Yk-9ePHRZRJY0) |
+| MATLAB Extension for Visual Studio Code | [MATLAB + Visual Studio Code](https://github.com/mathworks/matlab-extension-for-vscode) |
+
+---
+
+### 🤖 How to use MATLAB with AI
+
+<table>
+<tr>
+<td>
   <a href="CheatSheets/R2024a-ai-cheat-sheet.pdf">
     <img src="Images/AIR2024a.jpg" alt="AI for R2024a" width="350">
   </a>
@@ -493,14 +513,11 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 </tr>
 </table>
 
-- Check out new features and updates in the latest MATLAB Release [here!](https://www.mathworks.com/products/new_products/latest_features.html)
-- Check out the MATLAB Expo 2023 featured presentations [here!](https://www.matlabexpo.com/online/2023/proceedings.html)
-- Learn how to use [Live Editor](https://www.mathworks.com/products/matlab/live-editor.html)
-- [MATLAB Kernel for Jupyter](https://blogs.mathworks.com/matlab/2023/06/26/matlab-kernel-for-jupyter-now-with-windows-support/?fbclid=IwAR2Hjrm0Lou-hhu53d_cBKE8irWb7vtb7KnkELjMAQgRA1Yk-9ePHRZRJY0)
-- [Try MatGPT!](https://www.mathworks.com/matlabcentral/fileexchange/126665-matgpt?s_tid=mlc_recom_leaf) MATLAB® app and class to access ChatGPT API from OpenAI™.
-- [MATLAB AI Chat Playground is now available](https://www.mathworks.com/matlabcentral/playground/new)
-- [MATLAB Extension for Visual Studio Code](https://github.com/mathworks/matlab-extension-for-vscode)
-- [MATLAB GPT is now available on the OpenAI Store](https://chatgpt.com/g/g-QFTjbeK3U-matlab)
+| Different ways to use generative AI with MATLAB | Link |
+|-------------|------|
+| **MATLAB GPT on OpenAI Store**: Access MATLAB GPT directly from the OpenAI Store to integrate advanced AI capabilities into your MATLAB workflows effortlessly. | [MATLAB GPT](https://chatgpt.com/g/g-QFTjbeK3U-matlab) |
+| **MatGPT App**: Utilize the MatGPT app and class to seamlessly connect to the ChatGPT API from OpenAI™ within MATLAB®. This powerful tool allows you to leverage ChatGPT functionalities directly in your MATLAB environment. | [MatGPT App](https://www.mathworks.com/matlabcentral/fileexchange/126665-matgpt?s_tid=mlc_recom_leaf) |
+| **MATLAB AI Chat Playground**: Explore the MATLAB AI Chat Playground on MathWorks.com to quickly experiment with AI, draft code, and solve problems interactively using AI-powered tools. | [AI Chat Playground](https://www.mathworks.com/matlabcentral/playground/new) |
 
 ---
 ## Student Career Opportunities :briefcase:
