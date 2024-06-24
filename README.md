@@ -20,7 +20,7 @@ Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a
   - [Student Societies and Clubs](#resources-for-student-societies-and-student-clubs)
   - [Interactive Examples and Fun Animations](#interactive-and-fun-matlab-examples)
 - [What's New in MATLAB and Simulink](#whats-new-in-matlab-and-simulink)
-  - [Use MATLAB with AI](#robot-how-to-use-matlab-with-ai)
+  - [Use MATLAB with AI](#how-to-use-matlab-with-ai-robot)
 - [Student Career Opportunities](#student-career-opportunities-briefcase)
 - [Student License for MATLAB](#need-a-student-license-of-matlab)
 - [Need Support or Help?](#where-to-go-to-get-help)
@@ -499,7 +499,7 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 
 ---
 
-### 🤖 How to use MATLAB with AI
+### How to use MATLAB with AI :robot:
 
 <table>
 <tr>
