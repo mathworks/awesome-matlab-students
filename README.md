@@ -7,7 +7,7 @@
 
 # MATLAB and Simulink for Students :school: :books: :computer: [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/awesome-matlab-students)
 
-Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a student society in search of engaging workshops? Or perhaps you're looking for opportunities to test your MATLAB skills through student competitions or challenges? Look no further! Our awesome list repository below is a resource that caters to all these needs. Whether you're starting from scratch or aiming to enhance your existing knowledge, you'll find a wealth of information to help you learn MATLAB and make progress on your journey as a student. Explore the repository now and unlock the potential of MATLAB!
+Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a student society in search of engaging workshops? Or perhaps you're looking for opportunities to test your MATLAB skills through student competitions or challenges? Look no further! Our awesome list repository below is a resource that caters to all these needs. Whether you're starting from scratch or aiming to enhance your existing knowledge, you'll find a wealth of information to help you learn MATLAB and make progress on your journey as a student. Explore the repository now and unlock the potential of MATLAB! Follow us on Instagram for more student resources, events, and competitions! @matlab_students 📸
 
 ## Table of Contents
 
@@ -430,6 +430,10 @@ If you're interested in joining one of our sponsored Hackathons, we have somethi
 **Awesome MATLAB and Simulink Robotics**
 
 A list of awesome demos, tutorials, utilities, and overall resources for the robotics community that use MATLAB® and Simulink®: [Awesome MATLAB Robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics)
+
+**Deep Learning Resources for MATLAB and Simulink**
+
+A list of demos, tutorials, models, and overall resources for the AI community that use MATLAB® and Simulink®: [MATLAB Deep Learning](https://github.com/matlab-deep-learning)
 
 ---
 ## Resources for Student Societies and Student Clubs
