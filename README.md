@@ -486,8 +486,8 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 <tr>
 <td>
 <div style="display: flex;">
-  <a href="CheatSheets/R2024a-cheat-sheet.pdf" style="margin-right: 80px;">
-    <img src="Images/R2024a.jpg" alt="R2024a Cheat Sheet" width="350">
+  <a href="CheatSheets/R2024b-cheat-sheet.pdf" style="margin-right: 80px;">
+    <img src="Images/R2024b.jpg" alt="R2024b Cheat Sheet" width="350">
 </div>
 </td>
 
