@@ -319,6 +319,10 @@ Explore this section to find a collection of featured cheat sheets that provide 
 <br>
 <br>
 [Using Simulink with Python](https://www.mathworks.com/help/simulink/python-code-integration.html)
+<br>
+<br>
+[MATLAB and Python Resource Page](https://www.mathworks.com/products/matlab/getting-started/using-matlab-python.html)
+
 </ul></td>
 </tr>
 
