@@ -541,7 +541,7 @@ If you're interested in joining MathWorks, we have a range of exciting full-time
 If you're currently enrolled as a student with over a year left before graduation, consider becoming a [**MATLAB Student Ambassador**](https://www.mathworks.com/academia/students/student-ambassadors.html) on your campus. Discover how you can make an impact and represent MathWorks within your academic community.
 <br>
 <p align="center">
-  <img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/academia/students/matlab-student-ambassador-horizontal-logo.jpg" width="200">
+  <img src="Images/ml-student-ambassador-logo-rgb-2color-def-large.png" width="200">
 </p>
 
 Discover inspiring stories of how students have leveraged MATLAB and Simulink to achieve success in their careers. Check out their stories [here!](https://blogs.mathworks.com/student-lounge/category/where-are-they-now/?s_tid=Blog_student-lounge_Category)
