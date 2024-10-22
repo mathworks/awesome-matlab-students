@@ -154,7 +154,7 @@ Download and use community-contributed code to help you get started or gain insp
 
 <tr class="odd">
 <td> <b>MATLAB Answers<b> <br>
-<img src="https://www.mathworks.com/matlabcentral/answers/get_started.svg" width="400"  />
+<img src="Images/help.jpg" width="300"  />
 <td><ul>
 Find Answers, Learn, and Share Your Knowledge
 <li><a href="https://www.mathworks.com/matlabcentral/answers/index/?s_tid=gn_mlc_an">Learn from the Community</a></li>
@@ -265,25 +265,28 @@ Discover the future of coding with the MATLAB AI Chat Playground! Dive into Gene
 
 ---
 ## Self-Paced Onramps
-**Discover and Elevate Your Skills with MATLAB and Simulink Onramps**
 
-[MATLAB and Simulink Onramps](https://matlabacademy.mathworks.com/?s_tid=ln_acad_learn_oc#getting-started) offer a remarkable opportunity to explore a wide range of topics according to your interests and preferred pace. These onramps are designed to be flexible, allowing you to complete them at your convenience while effectively guiding you through various learning objectives. By immersing yourself in these onramps, you can unlock the power of MATLAB and Simulink, elevating your engineering and science skills to new heights.
+**Elevate Your Engineering and Science Skills with MATLAB and Simulink Onramps**
+
+Embark on a journey to enhance your expertise with [MATLAB and Simulink Onramps](https://matlabacademy.mathworks.com/?s_tid=ln_acad_learn_oc#getting-started). These self-paced courses provide a flexible and comprehensive learning experience, tailored to your interests and schedule. Dive into a variety of topics at your own pace and convenience, while being guided through essential learning objectives. Unlock the full potential of MATLAB and Simulink, and take your skills to the next level.
 
 | Machine Learning Onramp | Deep Learning Onramp | Circuit Simulation Onramp | Reinforcement Learning Onramp |
-|-------------------------|---------------------|--------------------------|------------------------------|
+|-------------------------|----------------------|---------------------------|------------------------------|
 | [![machinelearningonramp](Images/machinelearningonramp.jpg)](https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning) | [![deeplearningonramp](Images/deeplearningonramp.jpg)](https://matlabacademy.mathworks.com/details/deep-learning-onramp/deeplearning) | [![circuitsimonramp](Images/circuitsimulationonramp.jpg)](https://matlabacademy.mathworks.com/details/circuit-simulation-onramp/circuits) | [![reinforcementonramp](Images/reinforcementlearningonramp.jpg)](https://matlabacademy.mathworks.com/details/reinforcement-learning-onramp/reinforcementlearning) |
 
-| Image Processing Onramp | Computer Vision Onramp | Signal Processing Onramp | Simscape Onramp |
-|------------------------|-----------------------|-------------------------|-----------------|
-| [![imageprocessonramp](Images/imageprocessingonramp.jpg)](https://matlabacademy.mathworks.com/details/image-processing-onramp/imageprocessing) | [![computervisiononramp](Images/computervisiononramp.jpg)](https://matlabacademy.mathworks.com/details/computer-vision-onramp/orcv) | [![signalprocessingonramp](Images/signalprocessingonramp.jpg)](https://matlabacademy.mathworks.com/details/signal-processing-onramp/signalprocessing) | [![simscapeonramp](Images/simscapeonramp.jpg)](https://matlabacademy.mathworks.com/details/simscape-onramp/simscape) |
+| Computer Vision Onramp | Signal Processing Onramp | App Building Onramp | Control Design Onramp with Simulink |
+|------------------------|-------------------------|---------------------|-------------------------------------|
+| [![computervisiononramp](Images/computervisiononramp.jpg)](https://matlabacademy.mathworks.com/details/computer-vision-onramp/orcv) | [![signalprocessingonramp](Images/signalprocessingonramp.jpg)](https://matlabacademy.mathworks.com/details/signal-processing-onramp/signalprocessing) | [![appbuildingonramp](Images/appbuildingonramp.jpg)](https://matlabacademy.mathworks.com/details/app-building-onramp/orab) | [![controldesignonramp](Images/controldesignonramp.jpg)](https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls) |
 
-| Stateflow Onramp | Control Design Onramp with Simulink | Optimization Onramp | App Building Onramp |
-|------------------|-------------------------------------|---------------------|---------------------|
-| [![stateflowonramp](Images/stateflowonramp.jpg)](https://matlabacademy.mathworks.com/details/stateflow-onramp/stateflow) | [![controldesignonramp](Images/controldesignonramp.jpg)](https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls) | [![optimizationonramp](Images/optimizationonramp.jpg)](https://matlabacademy.mathworks.com/details/optimization-onramp/optim) | [![appbuildingonramp](Images/appbuildingonramp.jpg)](https://matlabacademy.mathworks.com/details/app-building-onramp/orab) |
+| Image Processing Onramp | Simscape Onramp | Stateflow Onramp | Optimization Onramp |
+|-------------------------|-----------------|------------------|---------------------|
+| [![imageprocessonramp](Images/imageprocessingonramp.jpg)](https://matlabacademy.mathworks.com/details/image-processing-onramp/imageprocessing) | [![simscapeonramp](Images/simscapeonramp.jpg)](https://matlabacademy.mathworks.com/details/simscape-onramp/simscape) | [![stateflowonramp](Images/stateflowonramp.jpg)](https://matlabacademy.mathworks.com/details/stateflow-onramp/stateflow) | [![optimizationonramp](Images/optimizationonramp.jpg)](https://matlabacademy.mathworks.com/details/optimization-onramp/optim) |
 
 | MATLAB Onramp | Simulink Onramp |
 |---------------|-----------------|
 | [![mlonramp](Images/matlabonramp.jpg)](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) | [![simulinkonramp](Images/simulinkonramp.jpg)](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) |
+
+Take advantage of these onramps to become proficient in MATLAB and Simulink, and transform your ideas into reality.
 
 ---
 ## Cheat Sheets :blue_book: :pencil2:
