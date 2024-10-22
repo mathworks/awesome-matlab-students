@@ -5,7 +5,7 @@
 
 </td>
 
-# MATLAB and Simulink for Students :school: :books: :computer: [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/awesome-matlab-students)
+# MATLAB and Simulink for Students :school: :books: :computer: [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a student society in search of engaging workshops? Or perhaps you're looking for opportunities to test your MATLAB skills through student competitions or challenges? Look no further! Our awesome list repository below is a resource that caters to all these needs. Whether you're starting from scratch or aiming to enhance your existing knowledge, you'll find a wealth of information to help you learn MATLAB and make progress on your journey as a student. Explore the repository now and unlock the potential of MATLAB! Follow us on Instagram for more student resources, events, and competitions! @matlab_students 📸
 
@@ -190,7 +190,7 @@ Learn How to Use MATLAB and Simulink for Student Projects
 
 <tr class="odd">
 <td> <b> Connect to Hardware using MATLAB <b> <br>
-<img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/connect-to-hardware-multicolor.svg" width="400" />
+<img src="Images/hardware2.jpg" width="400" />
 <td><ul>
 
 <li><a href="https://www.mathworks.com/hardware-support/home.html">All Hardware Support</a></li>
@@ -221,7 +221,7 @@ Ask questions, learn from others, and get ideas by joining our communities below
 
 <tr class="odd">
 <td> <b> Tune in to a Live Event or Webinar <b> <br>
-<img src="https://www.mathworks.com/content/dam/mathworks/thumbnail/events/webinar-thumbnail-default-1200x630px.jpg" width="400"  />
+<img src="Images/webinar.jpg" width="400"  />
 <td><ul>
 
 <li><a href="https://www.mathworks.com/company/events/search.html?s_tid=gn_ev_uw&q=&page=1">MATLAB and Simulink Live Events
@@ -233,7 +233,7 @@ Ask questions, learn from others, and get ideas by joining our communities below
 
 <tr class="odd">
 <td> <b>MATLAB and Simulink Books<b> <br>
-<img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/academia/courseware/interactive-books-thumbnail.jpg" width="400"  />
+<img src="Images/books.jpg" width="400"  />
 <td><ul>
 More than 2,000 titles available for Students! 
 <li><a href="https://www.mathworks.com/academia/books.html?s_tid=ln_acad_learn_books">Explore our book list</a></li>
@@ -271,19 +271,19 @@ Discover the future of coding with the MATLAB AI Chat Playground! Dive into Gene
 
 | Machine Learning Onramp | Deep Learning Onramp | Circuit Simulation Onramp | Reinforcement Learning Onramp |
 |-------------------------|---------------------|--------------------------|------------------------------|
-| [![machinelearningonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/machine-learning-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning) | [![deeplearningonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/deep-learning-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/deep-learning-onramp/deeplearning) | [![circuitsimonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/circuit-simulation-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/circuit-simulation-onramp/circuits) | [![reinforcementonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/reinforcement-learning-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/reinforcement-learning-onramp/reinforcementlearning) |
+| [![machinelearningonramp](Images/machinelearningonramp.jpg)](https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning) | [![deeplearningonramp](Images/deeplearningonramp.jpg)](https://matlabacademy.mathworks.com/details/deep-learning-onramp/deeplearning) | [![circuitsimonramp](Images/circuitsimulationonramp.jpg)](https://matlabacademy.mathworks.com/details/circuit-simulation-onramp/circuits) | [![reinforcementonramp](Images/reinforcementlearningonramp.jpg)](https://matlabacademy.mathworks.com/details/reinforcement-learning-onramp/reinforcementlearning) |
 
 | Image Processing Onramp | Computer Vision Onramp | Signal Processing Onramp | Simscape Onramp |
 |------------------------|-----------------------|-------------------------|-----------------|
-| [![imageprocessonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/image-processing-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/image-processing-onramp/imageprocessing) | [![computervisiononramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/computer-vision-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/computer-vision-onramp/orcv) | [![signalprocessingonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/signal-processing-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/signal-processing-onramp/signalprocessing) | [![simscapeonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/simscape-instructorled-coursecard.jpg)](https://matlabacademy.mathworks.com/details/simscape-onramp/simscape) |
+| [![imageprocessonramp](Images/imageprocessingonramp.jpg)](https://matlabacademy.mathworks.com/details/image-processing-onramp/imageprocessing) | [![computervisiononramp](Images/computervisiononramp.jpg)](https://matlabacademy.mathworks.com/details/computer-vision-onramp/orcv) | [![signalprocessingonramp](Images/signalprocessingonramp.jpg)](https://matlabacademy.mathworks.com/details/signal-processing-onramp/signalprocessing) | [![simscapeonramp](Images/simscapeonramp.jpg)](https://matlabacademy.mathworks.com/details/simscape-onramp/simscape) |
 
 | Stateflow Onramp | Control Design Onramp with Simulink | Optimization Onramp | App Building Onramp |
 |------------------|-------------------------------------|---------------------|---------------------|
-| [![stateflowonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/stateflow-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/stateflow-onramp/stateflow) | [![controldesignonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/control-design-onramp-with-simulink-card.jpg)](https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls) | [![optimizationonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/optimization-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/optimization-onramp/optim) | [![appbuildingonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/app-building-onramp-card.png)](https://matlabacademy.mathworks.com/details/app-building-onramp/orab) |
+| [![stateflowonramp](Images/stateflowonramp.jpg)](https://matlabacademy.mathworks.com/details/stateflow-onramp/stateflow) | [![controldesignonramp](Images/controldesignonramp.jpg)](https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls) | [![optimizationonramp](Images/optimizationonramp.jpg)](https://matlabacademy.mathworks.com/details/optimization-onramp/optim) | [![appbuildingonramp](Images/appbuildingonramp.jpg)](https://matlabacademy.mathworks.com/details/app-building-onramp/orab) |
 
 | MATLAB Onramp | Simulink Onramp |
 |---------------|-----------------|
-| [![mlonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/matlab-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) | [![simulinkonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/academia/student-competitions/minidrone-competition/simulink-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) |
+| [![mlonramp](Images/matlabonramp.jpg)](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) | [![simulinkonramp](Images/simulinkonramp.jpg)](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) |
 
 ---
 ## Cheat Sheets :blue_book: :pencil2:
