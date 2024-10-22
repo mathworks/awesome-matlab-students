@@ -388,14 +388,20 @@ Explore this section to find a collection of featured cheat sheets that provide 
 
 Click on the icon in the table below to access a wealth of additional resources tailored to your academic discipline. See how MATLAB & Simulink are used in the Industry by reading one of our [customer stories](https://www.mathworks.com/company/customer-stories.html).
 
+### Engineering & Technology
+| [✈️ Aerospace & Defense](https://www.mathworks.com/solutions/aerospace-defense.html) | [⚡ Utilities & Energy](https://www.mathworks.com/solutions/energy-production/utilities-energy.html) | [🤖 Artificial Intelligence](https://www.mathworks.com/solutions/artificial-intelligence.html) | [🚗 Automotive](https://www.mathworks.com/solutions/automotive.html) |
+|:---:|:---:|:---:|:---:|
 
-| Aerospace & Defense | Utilities & Energy | Artificial Intelligence | Automotive | Physics | Robotics | External Language Interfaces |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [![plane](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/electrification/electrified-transportation-orange.svg)](https://www.mathworks.com/solutions/aerospace-defense.html) | [![energy](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/electrification/renewable-energy.svg)](https://www.mathworks.com/solutions/energy-production/utilities-energy.html) | [![AI](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/artificial-intelligence-blue.svg)](https://www.mathworks.com/solutions/artificial-intelligence.html) | [![car](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/automated-driving-orange.svg)](https://www.mathworks.com/solutions/automotive.html) | [![physics](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/physics.svg)](https://www.mathworks.com/solutions/physics.html) | [![robotics](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/drone-orange.svg)](https://www.mathworks.com/solutions/robotics.html) | [![language](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/programming-language-blue.svg)](https://www.mathworks.com/help/matlab/external-language-interfaces.html) |
+| [🔬 Physics](https://www.mathworks.com/solutions/physics.html) | [🤖 Robotics](https://www.mathworks.com/solutions/robotics.html) | [🔗 External Language Interfaces](https://www.mathworks.com/help/matlab/external-language-interfaces.html) | [📟 Electronics](https://www.mathworks.com/solutions/electronics.html) |
+|:---:|:---:|:---:|:---:|
 
-| Biological Sciences | Finance & Risk Management | Communications | Medical Devices | Chemistry | Electronics | Earth, Ocean & Atmospheric Sciences |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [![biology](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/biological-sciences.svg)](https://www.mathworks.com/solutions/biological-sciences.html) | [![finance](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/bank-blue.svg)](https://www.mathworks.com/solutions/finance-and-risk-management.html) | [![wireless](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/antenna-orange.svg)](https://www.mathworks.com/solutions/communications.html) | [![medical](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/medical-imaging.svg)](https://www.mathworks.com/solutions/medical-devices.html) | [![chemistry](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/ivd-devices-orange.svg)](https://www.mathworks.com/solutions/chemistry.html) | [![electronics](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/hardware-blue.svg)](https://www.mathworks.com/solutions/electronics.html) | [![earth](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/earth.svg)](https://www.mathworks.com/solutions/earth-ocean-atmospheric-sciences.html) |
+### Science & Health
+| [🧬 Biological Sciences](https://www.mathworks.com/solutions/biological-sciences.html) | [🏥 Medical Devices](https://www.mathworks.com/solutions/medical-devices.html) | [⚗️ Chemistry](https://www.mathworks.com/solutions/chemistry.html) | [🌍 Earth, Ocean & Atmospheric Sciences](https://www.mathworks.com/solutions/earth-ocean-atmospheric-sciences.html) |
+|:---:|:---:|:---:|:---:|
+
+### Finance & Communications
+| [💰 Finance & Risk Management](https://www.mathworks.com/solutions/finance-and-risk-management.html) | [📡 Communications](https://www.mathworks.com/solutions/communications.html) |
+|:---:|:---:|
 
 #### Additional Resources:
 - [MATLAB and Simulink Webinars/Videos](https://www.mathworks.com/videos.html)
@@ -453,7 +459,7 @@ Please note that while MathWorks cannot offer financial support or prizes for th
 
 | **MATLAB Onramp Party Resources** | **Cody Competition Resources** |
 | :---: | :---: |
-| <p align="center"><img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/tutorials/matlab-onramp.png" alt="mlonramp" width="250" /></p><br>- [Onramp Toolkit](https://github.com/mathworks/awesome-matlab-students/tree/main/Student%20Societies%20and%20Clubs/Onramp%20Toolkit)<br>- [How to host an Onramp Party Guide](https://github.com/mathworks/awesome-matlab-students/blob/main/Student%20Societies%20and%20Clubs/Onramp%20Toolkit/1_How_to_Run_an_Onramp_Party.docx)<br>- [Example Presentations](https://github.com/mathworks/awesome-matlab-students/tree/main/Student%20Societies%20and%20Clubs/Onramp%20Toolkit/Example%20Presentations) | <p align="center"><img src="Images/cody.png" alt="cody" width="200" /></p><br>- [Cody Competition Toolkit](https://github.com/mathworks/awesome-matlab-students/tree/de1070f54b9df62e15a47076260c8b4136ad0fce/Student%20Societies%20and%20Clubs/Cody%20Competition%20Toolkit)
+| <p align="center"><img src="Images/matlabonramp.jpg" alt="mlonramp" width="250" /></p>- [Onramp Toolkit](https://github.com/mathworks/awesome-matlab-students/tree/main/Student%20Societies%20and%20Clubs/Onramp%20Toolkit)<br>- [How to host an Onramp Party Guide](https://github.com/mathworks/awesome-matlab-students/blob/main/Student%20Societies%20and%20Clubs/Onramp%20Toolkit/1_How_to_Run_an_Onramp_Party.docx)<br>- [Example Presentations](https://github.com/mathworks/awesome-matlab-students/tree/main/Student%20Societies%20and%20Clubs/Onramp%20Toolkit/Example%20Presentations) | <p align="center"><img src="Images/cody.png" alt="cody" width="200" /></p><br>- [Cody Competition Toolkit](https://github.com/mathworks/awesome-matlab-students/tree/de1070f54b9df62e15a47076260c8b4136ad0fce/Student%20Societies%20and%20Clubs/Cody%20Competition%20Toolkit)
 
 ---
 
