@@ -511,15 +511,18 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 ### How to use MATLAB with AI :robot:
 
 <table>
-<tr>
-<td>
-  <a href="CheatSheets/R2024a-ai-cheat-sheet.pdf">
-    <img src="Images/AIR2024a.jpg" alt="AI for R2024a" width="350">
-  </a>
-</div>
-</td>
-
-</tr>
+  <tr>
+    <td>
+      <a href="CheatSheets/R2024a-ai-cheat-sheet.pdf">
+        <img src="Images/AIR2024a.jpg" alt="AI for R2024a" width="350">
+      </a>
+    </td>
+    <td>
+      <a href="CheatSheets/R2024b-ai-cheat-sheet.pdf">
+        <img src="Images/R2024bai.png" alt="AI for R2024b" width="350">
+      </a>
+    </td>
+  </tr>
 </table>
 
 | Different ways to use generative AI with MATLAB | Link |
