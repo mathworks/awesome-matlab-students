@@ -420,25 +420,44 @@ Unleash your creativity and passion by discovering a world of student competitio
 [![Student Programs](Images/studentprograms.png)](https://www.mathworks.com/academia/students.html?s_tid=ln_acad_programs_overview)
 
 ---
-## Related MATLAB GitHub Resources for Students 
+## Related MATLAB GitHub Resources for Students
 
-**MATLAB and Simulink Challenge Projects: Contribute to the progress of engineering and science by solving key industry challenges!**
+Enhance your skills and contribute to the fields of engineering and science with these valuable resources:
 
-Are you in search of a design or research project idea that has real industry relevance and can make a positive societal impact? Look no further!
+### MATLAB and Simulink Challenge Projects
+**Contribute to Solving Industry Challenges!**
 
-[Explore this GitHub list](https://github.com/mathworks/MathWorks-Excellence-in-Innovation) of challenge projects to stay up-to-date with technology trends, gain practical skills using MATLAB and Simulink, and contribute to the fields of science and engineering. By participating, you'll enhance your problem-solving abilities and receive official recognition for your accomplishments from technology leaders at MathWorks. Plus, there are rewards waiting for you upon project completion!
+Are you looking for a design or research project with real industry relevance that can make a positive societal impact? Explore our [GitHub list of challenge projects](https://github.com/mathworks/MathWorks-Excellence-in-Innovation) to:
 
-**Awesome MATLAB Hackathons: Participate in an upcoming Hackathon!**
+- Stay up-to-date with technology trends.
+- Gain practical skills using MATLAB and Simulink.
+- Enhance your problem-solving abilities.
 
-If you're interested in joining one of our sponsored Hackathons, we have something for you too! [Check out our Student Hackathons GitHub repository](https://github.com/mathworks/awesome-matlab-hackathons) to learn more about these exciting events and the opportunity to win fantastic prizes!
+By participating, you'll receive official recognition from technology leaders at MathWorks and earn rewards upon project completion!
 
-**Awesome MATLAB and Simulink Robotics**
+---
 
-A list of awesome demos, tutorials, utilities, and overall resources for the robotics community that use MATLAB® and Simulink®: [Awesome MATLAB Robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics)
+### Awesome MATLAB Hackathons
+**Join an Upcoming Hackathon!**
 
-**Deep Learning Resources for MATLAB and Simulink**
+Interested in participating in a sponsored Hackathon? Check out our [Student Hackathons GitHub repository](https://github.com/mathworks/awesome-matlab-hackathons) to:
 
-A list of demos, tutorials, models, and overall resources for the AI community that use MATLAB® and Simulink®: [MATLAB Deep Learning](https://github.com/matlab-deep-learning)
+- Discover exciting events.
+- Compete for fantastic prizes.
+
+---
+
+### Awesome MATLAB and Simulink Robotics
+**Robotics Community Resources**
+
+Explore a curated list of demos, tutorials, utilities, and resources for the robotics community using MATLAB® and Simulink®: [Awesome MATLAB Robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics).
+
+---
+
+### Deep Learning Resources for MATLAB and Simulink
+**AI Community Resources**
+
+Access a collection of demos, tutorials, models, and resources for the AI community using MATLAB® and Simulink®: [MATLAB Deep Learning](https://github.com/matlab-deep-learning).
 
 ---
 ## Resources for Student Societies and Student Clubs
