@@ -242,11 +242,13 @@ More than 2,000 titles available for Students!
 </tr>
 
 <tr class="odd">
-<td> <b>Student Announcement: The Sustainability and Renewable Energy Challenge is now open! <b> <br>
-<img src="Images/energychallenge.jpg" width="400"  />
+<td> <b>Student Announcement: The Global Drone Student Challenge 2025 is now live! <b> <br>
+<img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/hardware/parrot/minidrone-competition-thumbnail.jpg" width="400"  />
 <td><ul>
-We are excited to announce the second edition of the MathWorks Sustainability and Renewable Energy Challenge! We invite you to submit innovative solutions to environmental challenges related to sustainability and renewable energy. Select a project from our list and submit a solution to be eligible to win up to $1,000 (USD).
-<li><a href="https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2024.html">Join the competition!</a></li>
+Get ready to expand your engineering skills. Design a line follower algorithm for a drone in a photorealistic Simulink 3D environment to gain industry-relevant skills and a chance to win exciting rewards (up to $500 USD for First place). Compete virtually with peers from across the globe, enhance your simulation skills, and gain an edge if you choose to participate in a future MathWorks minidrone competition. Your model will be tested on three levels of intense tracks—beginner, intermediate, and advanced. Does your submission have what it takes to tackle the challenges and rise to the top?
+<br>
+<br>
+<li><a href="https://www.mathworks.com/academia/students/competitions/minidrones/global-drone-student-challenge.html"> Register for the competition by March 6th!</a></li>
 </ul></td>
 </tr>
 
