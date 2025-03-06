@@ -242,13 +242,13 @@ More than 2,000 titles available for Students!
 </tr>
 
 <tr class="odd">
-<td> <b>Student Announcement: The Global Drone Student Challenge 2025 is now live! <b> <br>
-<img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/hardware/parrot/minidrone-competition-thumbnail.jpg" width="400"  />
+<td> <b>Student Announcement: The first MathWorks AI Challenge is now live! <b> <br>
+<img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/academia/student-challenges/ai-challenge-student-challenge.jpg" width="400"  />
 <td><ul>
-Get ready to expand your engineering skills. Design a line follower algorithm for a drone in a photorealistic Simulink 3D environment to gain industry-relevant skills and a chance to win exciting rewards (up to $500 USD for First place). Compete virtually with peers from across the globe, enhance your simulation skills, and gain an edge if you choose to participate in a future MathWorks minidrone competition. Your model will be tested on three levels of intense tracks—beginner, intermediate, and advanced. Does your submission have what it takes to tackle the challenges and rise to the top?
+We are excited to announce the first edition of the MathWorks AI Challenge. You’re invited to submit innovative solutions to challenges in the field of artificial intelligence. Choose a project from our curated list and submit your solution for a chance to win up to $1,000 (USD). Showcase your creativity and contribute to the advancement of AI technology.
 <br>
 <br>
-<li><a href="https://www.mathworks.com/academia/students/competitions/minidrones/global-drone-student-challenge.html"> Register for the competition by March 6th!</a></li>
+<li><a href="https://www.mathworks.com/academia/students/competitions/student-challenge/ai-challenge.html"> Register for the competition here!</a></li>
 </ul></td>
 </tr>
 
