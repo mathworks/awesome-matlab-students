@@ -38,6 +38,7 @@ Check out this section to explore what MATLAB is, how it is utilized in educatio
 <td><ul>
 Why is MATLAB important and how is it used? 
 <li><a href="https://www.youtube.com/watch?v=joilU9m-sNk">MATLAB Overview</a></li>
+<li><a href="https://www.mathworks.com/videos/getting-started-with-matlab-68985.html">Getting Started with MATLAB - 10 Minute Tutorial </a></li>
 <li><a href="https://www.youtube.com/watch?v=xkImXFzYDv4">MATLAB Basics: Back to School Edition </a></li>
 <li><a href="https://www.mathworks.com/help/matlab/getting-started-with-matlab.html">Get Started with MATLAB Documentation</a></li>
 <li><a href="https://www.mathworks.com/company/user_stories/designed-with-matlab.html">How will you use MATLAB?</a></li>
@@ -51,7 +52,8 @@ What is Simulink?
 <br>
 Check to see if your school has a campus wide-license:
 <li><a href="https://www.mathworks.com/products/matlab/student.html">Get MATLAB</a></li>
-
+</ul></td>
+  
 <tr class="odd">
 <td> <b>Getting Started Onramps<b> <br>
 
