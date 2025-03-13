@@ -45,6 +45,7 @@ Why is MATLAB important and how is it used?
 <br>
 What is Simulink? 
 <li><a href="https://www.youtube.com/watch?v=GvRugdEICyQ">Simulink Overview</a></li>
+<li><a href="https://www.mathworks.com/videos/getting-started-with-simulink-69027.html">Getting Started with Simulink - 11 Minute Tutorial</a></li>
 <li><a href="https://www.mathworks.com/help/simulink/getting-started-with-simulink.html">Get Started with Simulink Documentation</a></li>
 <br>
 <a href="https://www.mathworks.com/help/?s_tid=gn_supp">Full MATLAB & Simulink Documentation</a>
