@@ -475,7 +475,7 @@ Please note that while MathWorks cannot offer financial support or prizes for th
 
 | **MATLAB Onramp Party Resources** | **Cody Competition Resources** |
 | :---: | :---: |
-| <p align="center"><img src="Images/matlabonramp.jpg" alt="mlonramp" width="250" /></p>- [Onramp Toolkit](https://github.com/mathworks/awesome-matlab-students/tree/main/Student%20Societies%20and%20Clubs/Onramp%20Toolkit)<br>- [How to host an Onramp Party Guide](https://github.com/mathworks/awesome-matlab-students/blob/main/Student%20Societies%20and%20Clubs/Onramp%20Toolkit/1_How_to_Run_an_Onramp_Party.docx)<br>- [Example Presentations](https://github.com/mathworks/awesome-matlab-students/tree/main/Student%20Societies%20and%20Clubs/Onramp%20Toolkit/Example%20Presentations) | <p align="center"><img src="Images/cody.png" alt="cody" width="200" /></p><br>- [Cody Competition Toolkit](Student Societies and Clubs/Cody Competition Toolkit)
+| <p align="center"><img src="Images/matlabonramp.jpg" alt="mlonramp" width="250" /></p>- [Onramp Toolkit](https://github.com/mathworks/awesome-matlab-students/tree/main/Student%20Societies%20and%20Clubs/Onramp%20Toolkit)<br>- [How to host an Onramp Party Guide](https://github.com/mathworks/awesome-matlab-students/blob/main/Student%20Societies%20and%20Clubs/Onramp%20Toolkit/1_How_to_Run_an_Onramp_Party.docx)<br>- [Example Presentations](https://github.com/mathworks/awesome-matlab-students/tree/main/Student%20Societies%20and%20Clubs/Onramp%20Toolkit/Example%20Presentations) | <p align="center"><img src="Images/cody.png" alt="cody" width="200" /></p><br>- [Cody Competition Toolkit](https://github.com/mathworks/awesome-matlab-students/tree/afd9dc11041562e8a585fd1349218e504f497c4b/Student%20Societies%20and%20Clubs/Cody%20Competition%20Toolkit)
 
 ---
 
