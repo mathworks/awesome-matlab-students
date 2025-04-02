@@ -14,7 +14,7 @@ Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a
 - [New to MATLAB? Start here!](#new-to-matlab-start-here-computer-bulb)
   - [Self-Paced Onramps](#self-paced-onramps)
   - [Cheat Sheets](#cheat-sheets-blue_book-pencil2)
-- [Academic Discipline Specific Resources](#discipline-specific-resources-airplane-racing_car-robot-microscope)
+- [Academic Discipline Specific Resources](#industrydiscipline-specific-resources-airplane-racing_car-robot-microscope)
 - [Student Programs and Competitions](#student-programs-trophy)
   - [Hackathons and Capstone Projects](#related-matlab-github-resources-for-students)
   - [Student Societies and Clubs](#resources-for-student-societies-and-student-clubs)
@@ -384,30 +384,41 @@ Explore this section to find a collection of featured cheat sheets that provide 
 </table>
 
 ---
-## Discipline-Specific Resources :airplane: :racing_car: :robot: :microscope:
+## Industry/Discipline-Specific Resources :airplane: :racing_car: :robot: :microscope:
 
-**Explore Additional Resources for Your Academic Discipline**
+**Explore Additional Resources for Your Academic Discipline or Industry**
 
-Click on the icon in the table below to access a wealth of additional resources tailored to your academic discipline. See how MATLAB & Simulink are used in the Industry by reading one of our [customer stories](https://www.mathworks.com/company/customer-stories.html).
+Click on the icon in the table below to access a wealth of additional resources tailored to your academic discipline or Industry. This is only a short list and to explore all resources, go to the General Resources section below and select "All Resources". Also, see how MATLAB & Simulink are used in the Industry by reading one of our [customer stories](https://www.mathworks.com/company/customer-stories.html).
 
+## Industry & Application
 
-| Aerospace & Defense | Utilities & Energy | Artificial Intelligence | Automotive | Physics | Robotics | External Language Interfaces |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [![plane](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/electrification/electrified-transportation-orange.svg)](https://www.mathworks.com/solutions/aerospace-defense.html) | [![energy](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/electrification/renewable-energy.svg)](https://www.mathworks.com/solutions/energy-production/utilities-energy.html) | [![AI](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/artificial-intelligence-blue.svg)](https://www.mathworks.com/solutions/artificial-intelligence.html) | [![car](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/automated-driving-orange.svg)](https://www.mathworks.com/solutions/automotive.html) | [![physics](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/physics.svg)](https://www.mathworks.com/solutions/physics.html) | [![robotics](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/drone-orange.svg)](https://www.mathworks.com/solutions/robotics.html) | [![language](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/programming-language-blue.svg)](https://www.mathworks.com/help/matlab/external-language-interfaces.html) |
+| Aerospace & Defense | Utilities & Energy | Automotive | Robotics | Industrial Automation | Communications |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [![plane](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/electrification/electrified-transportation-orange.svg)](https://www.mathworks.com/solutions/aerospace-defense.html) | [![energy](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/electrification/renewable-energy.svg)](https://www.mathworks.com/solutions/energy-production/utilities-energy.html) | [![car](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/car-aqua.svg)](https://www.mathworks.com/solutions/automotive.html) | [![robotics](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/drone-orange.svg)](https://www.mathworks.com/solutions/robotics.html) | [![industrial](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/roboticarm.svg)](https://www.mathworks.com/solutions/industrial-automation-machinery.html) | [![wireless](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/antenna-orange.svg)](https://www.mathworks.com/solutions/communications.html) |
 
-| Biological Sciences | Finance & Risk Management | Communications | Medical Devices | Chemistry | Electronics | Geoscience |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [![biology](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/biological-sciences.svg)](https://www.mathworks.com/solutions/biological-sciences.html) | [![finance](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/bank-blue.svg)](https://www.mathworks.com/solutions/finance-and-risk-management.html) | [![wireless](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/antenna-orange.svg)](https://www.mathworks.com/solutions/communications.html) | [![medical](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/medical-imaging.svg)](https://www.mathworks.com/solutions/medical-devices.html) | [![chemistry](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/ivd-devices-orange.svg)](https://www.mathworks.com/solutions/chemistry.html) | [![electronics](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/hardware-blue.svg)](https://www.mathworks.com/solutions/electronics.html) | [![earth](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/earth.svg)](https://www.mathworks.com/solutions/geoscience.html) |
+| Medical Devices | Biotech and Pharma | Finance | Semiconductors | Electronics | Artificial Intelligence |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [![medical](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/medical-imaging.svg)](https://www.mathworks.com/solutions/medical-devices.html) | [![biotech](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/analyze-data-orange.svg)](https://www.mathworks.com/solutions/biotech-pharmaceutical.html) | [![finance](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/bank-blue.svg)](https://www.mathworks.com/solutions/finance-and-risk-management.html) | [![semiconductors](https://www.mathworks.com/content/dam/mathworks/image-gallery/illustrations/technology/cpu-chip.svg)](https://www.mathworks.com/solutions/semiconductors.html) | [![electronics](https://www.mathworks.com/content/dam/mathworks/image-gallery/illustrations/technology/smart-watch.svg)](https://www.mathworks.com/solutions/electronics.html) | [![AI](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/artificial-intelligence-blue.svg)](https://www.mathworks.com/solutions/artificial-intelligence.html) |
 
-| Chemical Engineering | Electrical Engineering | Neuroscience | Mathematics | Semiconductors | Biotech and Pharma | Industrial Automation |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [![chemical](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/chemical-engineering-orange.svg)](https://www.mathworks.com/solutions/chemical-engineering.html) | [![electrical](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/electrical-computer-engineering-blue.svg)](https://www.mathworks.com/solutions/electrical-computer-engineering.html) | [![neuroscience](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/brain-black.svg)](https://www.mathworks.com/solutions/neuroscience.html) | [![mathematics](https://www.mathworks.com/content/dam/mathworks/image-gallery/illustrations/miscellaneous/calculator.svg)](https://www.mathworks.com/solutions/mathematics.html) | [![semiconductors](https://www.mathworks.com/content/dam/mathworks/image-gallery/illustrations/technology/cpu-chip.svg)](https://www.mathworks.com/solutions/semiconductors.html) | [![biotech](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/analyze-data-orange.svg)](https://www.mathworks.com/solutions/biotech-pharmaceutical.html) | [![industrial](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/roboticarm.svg)](https://www.mathworks.com/solutions/industrial-automation-machinery.html) |
+## Academic Discipline
+
+| Physics | Chemistry | Mathematics | Neuroscience |
+|:---:|:---:|:---:|:---:|
+| [![physics](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/atom-aqua.svg)](https://www.mathworks.com/solutions/physics.html) | [![chemistry](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/ivd-devices-orange.svg)](https://www.mathworks.com/solutions/chemistry.html) | [![mathematics](https://www.mathworks.com/content/dam/mathworks/image-gallery/illustrations/miscellaneous/calculator.svg)](https://www.mathworks.com/solutions/mathematics.html) | [![neuroscience](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/brain-black.svg)](https://www.mathworks.com/solutions/neuroscience.html) |
+
+| Biological Sciences | Electrical Engineering | Chemical Engineering | Geoscience |
+|:---:|:---:|:---:|:---:|
+| [![biology](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/biological-sciences.svg)](https://www.mathworks.com/solutions/biological-sciences.html) | [![electrical](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/electrical-computer-engineering-blue.svg)](https://www.mathworks.com/solutions/electrical-computer-engineering.html) | [![chemical](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/chemical-engineering-orange.svg)](https://www.mathworks.com/solutions/chemical-engineering.html) | [![earth](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/earth.svg)](https://www.mathworks.com/solutions/geoscience.html) |
+
+## General Resources
+
+| All Discipline and Industry Specific Resources | Application Specific Support | External Language Interfaces |
+|:---:|:---:|:---:|
+| [![academic](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/matlab-laptop-aqua.svg)](https://www.mathworks.com/solutions.html?s_tid=gn_so) | [![industry](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/discover-orange.svg)](https://www.mathworks.com/help/?s_tid=gn_supp) | [![language](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/programming-language-blue.svg)](https://www.mathworks.com/help/matlab/external-language-interfaces.html) |
 
 
 #### Additional Resources:
 - [MATLAB and Simulink Webinars/Videos](https://www.mathworks.com/videos.html)
-- [Discipline or Industry Specific Resources](https://www.mathworks.com/solutions.html?s_tid=gn_sol)
-- [Product-Specific Support](https://www.mathworks.com/help/?s_tid=gn_supp)
 - Additional Online Courses with [edX](https://www.edx.org/school/mathworks) and [COURSERA!](https://www.coursera.org/mathworks)
 - [Industry User Stories](https://www.mathworks.com/company/user_stories/search.html?q=&page=1)
 - [External Language Interfaces](https://www.mathworks.com/help/matlab/external-language-interfaces.html)
