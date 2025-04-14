@@ -170,13 +170,14 @@ Find Answers, Learn, and Share Your Knowledge
 <img src="Images/skidpad2.gif" width="400"  />
 <td><ul>
 Learn How to Use MATLAB and Simulink for Student Projects
-<li><a href="https://www.mathworks.com/videos/series/robotics-education.html">Robotics</a>, <a href="https://www.mathworks.com/videos/series/perception.html">Perception</a>, <a href="https://www.mathworks.com/videos/series/implementation.html">Implementation</a></li>
-<li><a href="https://www.mathworks.com/videos/series/student-competition-code-generation-training.html">Code generation and working with Hardware</a></li>
-<li><a href="https://www.mathworks.com/videos/series/making-vehicles-and-robots-see-getting-started-with-perception-for-students.html">Making Vehicles and Robots See</a></li>
-<li><a href="https://www.mathworks.com/videos/series/hybrid-electric-vehicles.html">Hybrid Electric Vehicles</a></li>
-<li><a href="https://www.mathworks.com/videos/series/aerospace.html">Aerospace</a></li>
-<li><a href="https://www.mathworks.com/videos/series/improving-your-racecar-development-101027.html">Automotive System Development</a></li>
-<li><a href="https://www.mathworks.com/academia/student-competitions/tutorials-videos.html?s_tid=ln_acad_programs_tutorials">All Student Project Tutorials</a></li>
+<li><a href="https://www.mathworks.com/academia/student-competitions/resources/auto-drive.html">ADAS</a></li>
+<li><a href="https://www.mathworks.com/academia/student-competitions/resources/internal-combustion-engines.html">Internal Combustion Engines</a></li>
+<li><a href="http://mathworks.com/academia/student-competitions/resources/wireless-communications.html">Wireless Communications</a></li>
+<li><a href="https://www.mathworks.com/academia/student-competitions/resources/electric-vehicles.html">Electric Vehicles</a></li>
+<li><a href="https://www.mathworks.com/academia/student-competitions/resources/aerospace.html">Aerospace</a></li>
+<li><a href="https://www.mathworks.com/academia/student-competitions/resources/robotics.html">Robotics</a></li>
+<li><a href="https://www.mathworks.com/academia/student-competitions/resources/mathematics.html">Mathematics</a></li>
+<li><a href="https://www.mathworks.com/academia/student-competitions/resources.html">All Student Project Tutorials</a></li>
 </ul></td>
 </tr>
 
