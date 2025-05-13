@@ -443,44 +443,92 @@ Unleash your creativity and passion by discovering a world of student competitio
 ---
 ## Related MATLAB GitHub Resources for Students
 
-Enhance your skills and contribute to the fields of engineering and science with these valuable resources:
-
-### MATLAB and Simulink Challenge Projects
-**Contribute to Solving Industry Challenges!**
-
-Are you looking for a design or research project with real industry relevance that can make a positive societal impact? Explore our [GitHub list of challenge projects](https://github.com/mathworks/MathWorks-Excellence-in-Innovation) to:
-
-- Stay up-to-date with technology trends.
-- Gain practical skills using MATLAB and Simulink.
-- Enhance your problem-solving abilities.
-
-By participating, you'll receive official recognition from technology leaders at MathWorks and earn rewards upon project completion!
+Looking for even more MATLAB & Simulink resources on GitHub? Then explore these curated resources to **enhance your skills**, **tackle real-world challenges**, and **connect with the MATLAB community**.
 
 ---
 
-### Awesome MATLAB Hackathons
-**Join an Upcoming Hackathon!**
+## Highlighted Repositories to Explore
 
-Interested in participating in a sponsored Hackathon? Check out our [Student Hackathons GitHub repository](https://github.com/mathworks/awesome-matlab-hackathons) to:
-
-- Discover exciting events.
-- Compete for fantastic prizes.
-
----
-
-### Awesome MATLAB and Simulink Robotics
-**Robotics Community Resources**
-
-Explore a curated list of demos, tutorials, utilities, and resources for the robotics community using MATLAB® and Simulink®: [Awesome MATLAB Robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics).
+- [Challenge Projects](#-matlab--simulink-challenge-projects)
+- [Hackathons](#-awesome-matlab-hackathons)
+- [Robotics](#-awesome-matlab--simulink-robotics)
+- [Deep Learning](#-deep-learning-resources-for-matlab--simulink)
+- [UAV](#-uav-with-matlab-and-simulink-resources)
+- [Renewable Energy](#-renewable-energy-with-matlab-and-simulink-resources)
 
 ---
 
-### Deep Learning Resources for MATLAB and Simulink
-**AI Community Resources**
+### 🏆 MATLAB & Simulink Challenge Projects
+*Looking for a capstone design project or to contribute to solving industry challenges!*
 
-Access a collection of demos, tutorials, models, and resources for the AI community using MATLAB® and Simulink®: [MATLAB Deep Learning](https://github.com/matlab-deep-learning).
+[![View Projects](https://img.shields.io/badge/GitHub-MathWorks%20Excellence%20in%20Innovation-blue?logo=github)](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
+
+- Stay up-to-date with technology trends
+- Gain hands-on MATLAB & Simulink skills
+- Earn official recognition and rewards  
+👉 [Explore Challenge Projects](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
 
 ---
+
+### 🎉 Awesome MATLAB Hackathons
+*Join a sponsored hackathon!*
+
+[![Student Hackathons](https://img.shields.io/badge/GitHub-Awesome%20MATLAB%20Hackathons-orange?logo=github)](https://github.com/mathworks/awesome-matlab-hackathons)
+
+- Discover upcoming events
+- Compete for prizes and recognition  
+👉 [See Hackathons](https://github.com/mathworks/awesome-matlab-hackathons)
+
+---
+
+### 🤖 Awesome MATLAB & Simulink Robotics
+*Robotics community resources*
+
+[![Robotics Resources](https://img.shields.io/badge/GitHub-Awesome%20MATLAB%20Robotics-lightgrey?logo=github)](https://github.com/mathworks-robotics/awesome-matlab-robotics)
+
+- Demos, tutorials, and utilities for robotics
+- For all skill levels  
+👉 [Browse Robotics Resources](https://github.com/mathworks-robotics/awesome-matlab-robotics)
+
+---
+
+### 🧠 Deep Learning Resources for MATLAB & Simulink
+*AI community resources*
+
+[![Deep Learning](https://img.shields.io/badge/GitHub-MATLAB%20Deep%20Learning-purple?logo=github)](https://github.com/matlab-deep-learning)
+
+- Demos, tutorials, and models for AI
+- Community-driven content  
+👉 [Access Deep Learning Resources](https://github.com/matlab-deep-learning)
+
+---
+
+### 🛩 UAV With MATLAB and Simulink Resources
+*Unmanned Aerial Vehicle (UAV) projects and tools*
+
+[![UAV Resources](https://img.shields.io/badge/GitHub-UAV%20With%20MATLAB%20and%20Simulink-9cf?logo=github)](https://github.com/mathworks/UAV-With-MATLAB-and-Simulink)
+
+- Design, simulate, and control UAVs
+- Example projects and code  
+👉 [Explore UAV Resources](https://github.com/mathworks/UAV-With-MATLAB-and-Simulink)
+
+---
+
+### 🌱 Renewable Energy with MATLAB and Simulink Resources
+*Sustainable energy & student competitions*
+
+[![Renewable Energy Resources](https://img.shields.io/badge/GitHub-Renewable%20Energy%20With%20MATLAB%20and%20Simulink-brightgreen?logo=github)](https://github.com/mathworks/Renewable-Energy-With-MATLAB-and-Simulink?tab=readme-ov-file#student-competitions)
+
+- Models and tools for renewable energy systems
+- Student competitions and challenges  
+👉 [Discover Renewable Energy Resources](https://github.com/mathworks/Renewable-Energy-With-MATLAB-and-Simulink?tab=readme-ov-file#student-competitions)
+
+---
+
+> 💡 **Tip:** Star your favorite repositories and join the community to stay updated!
+
+---
+
 ## Resources for Student Societies and Student Clubs
 
 **Host an Engaging MATLAB or Simulink Workshop for Your Student Society or Club!**
