@@ -447,7 +447,7 @@ Looking for even more MATLAB & Simulink resources on GitHub? Then explore these 
 
 ---
 
-## Highlighted Repositories to Explore
+### Highlighted Repositories to Explore
 
 - [Challenge Projects](#-matlab--simulink-challenge-projects)
 - [Hackathons](#-awesome-matlab-hackathons)
@@ -459,7 +459,7 @@ Looking for even more MATLAB & Simulink resources on GitHub? Then explore these 
 ---
 
 ### 🏆 MATLAB & Simulink Challenge Projects
-*Looking for a capstone design project or to contribute to solving industry challenges!*
+*Looking for a capstone design project or to contribute to solving industry challenges? Check out our challenge projects below!*
 
 [![View Projects](https://img.shields.io/badge/GitHub-MathWorks%20Excellence%20in%20Innovation-blue?logo=github)](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
 
