@@ -36,7 +36,7 @@ Check out this section to explore what MATLAB is, how it is utilized in educatio
 <td> <b>What is MATLAB and Simulink?<b> <br>
 <img src="Images/mlsimulink.png" alt="mlsimulink" width="450" /></td>
 <td><ul>
-Why is MATLAB important and how is it used? 
+Why is MATLAB important, and how is it used? 
 <li><a href="https://www.youtube.com/watch?v=joilU9m-sNk">MATLAB Overview</a></li>
 <li><a href="https://www.mathworks.com/videos/getting-started-with-matlab-68985.html">Getting Started with MATLAB - 10 Minute Tutorial </a></li>
 <li><a href="https://www.youtube.com/watch?v=xkImXFzYDv4">MATLAB Basics: Back to School Edition </a></li>
@@ -51,7 +51,7 @@ What is Simulink?
 <a href="https://www.mathworks.com/help/?s_tid=gn_supp">Full MATLAB & Simulink Documentation</a>
 <br>
 <br>
-Check to see if your school has a campus wide-license:
+Check to see if your school has a campus-wide license:
 <li><a href="https://www.mathworks.com/products/matlab/student.html">Get MATLAB</a></li>
 </ul></td>
   
@@ -63,7 +63,7 @@ Check to see if your school has a campus wide-license:
 Primary or Secondary School students start here:
 <li><a href="https://learntocode.mathworks.com/">Learn to Code</a></li>
 <br>
-University and College Students Start here:
+University and College Students Start Here:
 <br>
 Complimentary 2-hour MATLAB tutorials for 
 <li><a href="https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted">MATLAB</a></li>
@@ -129,7 +129,7 @@ Learn How to Use MATLAB and Simulink
  
 <tr class="odd">
 <td> <b>Student Lounge Blog<b> <br>
-<img src="Images/blog.png" style="width:2.13889in;height:1.55726in" /></td>
+<img src="Images/blog.png" width="250" /></td>
 <td><ul>
 Sharing technical and real-life examples of how students can use MATLAB and Simulink in their everyday projects #studentsuccess
 <li><a href="https://blogs.mathworks.com/student-lounge/category/data-science/?s_tid=Blog_student-lounge_Category">Data Science</a></li>
@@ -144,7 +144,7 @@ Sharing technical and real-life examples of how students can use MATLAB and Simu
 <tr class="odd">
 <td> <b>MATLAB Central's File Exchange<b> <br>
 <img src="Images/tetris.gif" alt="tetris" width="300"> <br>
-<img src="Images/fex.png" style="width:2.13889in;height:1.55726in" /></td>
+<img src="Images/fex.png" width="200" /> </td>
 <td><ul>
 Download and use community-contributed code to help you get started or gain inspiration for your project
 <li><a href="https://www.mathworks.com/matlabcentral/fileexchange/?s_tid=gn_mlc_fx_files">Find Code to inspire your project</a></li>
