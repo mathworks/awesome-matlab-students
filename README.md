@@ -246,13 +246,13 @@ More than 2,000 titles available for Students!
 </tr>
 
 <tr class="odd">
-<td> <b>Student Announcement: The first MathWorks AI Challenge is now live! <b> <br>
-<img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/academia/student-challenges/ai-challenge-student-challenge.jpg" width="400"  />
+<td> <b>Student Programs: Explore MathWorks Student Programs  <b> <br>
+<img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/thumbnails/thumbnail-generic-student-competition.jpg" width="400"  />
 <td><ul>
-We are excited to announce the first edition of the MathWorks AI Challenge. You’re invited to submit innovative solutions to challenges in the field of artificial intelligence. Choose a project from our curated list and submit your solution for a chance to win up to $1,000 (USD). Showcase your creativity and contribute to the advancement of AI technology.
+MathWorks Student Programs offers students an opportunity to participate in competitions, hackathons, and challenges, as well as access resources, project ideas, and career opportunities. 
 <br>
 <br>
-<li><a href="https://www.mathworks.com/academia/students/competitions/student-challenge/ai-challenge.html"> Register for the competition here!</a></li>
+<li><a href="https://www.mathworks.com/academia/students.html"> Explore Student Programs Here!</a></li>
 </ul></td>
 </tr>
 
@@ -261,7 +261,7 @@ We are excited to announce the first edition of the MathWorks AI Challenge. You�
 <img src="Images/aiplayground.gif" width="400"  />
 <td><ul>
 Discover the future of coding with the MATLAB AI Chat Playground! Dive into Generative AI to swiftly draft code, solve intricate problems, and accelerate your MATLAB projects like never before. 
-<li><a href="https://www.mathworks.com/matlabcentral/playground">The MATLAB AI Chat Playground is ready for you to experiment with Generative AI, answer questions, and write initial draft MATLAB® code. </a></li>
+<li><a href="https://www.mathworks.com/matlabcentral/playground">The MATLAB AI Chat Playground is ready for you to experiment with Generative AI, answer questions, and write an initial draft of MATLAB® code. </a></li>
 <li><a href="https://chatgpt.com/g/g-QFTjbeK3U-matlab"> MATLAB GPT is now available on the OpenAI GPT Store </a></li>
 </ul></td>
 </tr>
@@ -533,7 +533,7 @@ Looking for even more MATLAB & Simulink resources on GitHub? Then explore these 
 
 **Host an Engaging MATLAB or Simulink Workshop for Your Student Society or Club!**
 
-If you're part of a student society or club and want to organize an exciting MATLAB or Simulink workshop, we've got you covered! Discover how you can host a captivating MATLAB Onramp Party or a thrilling Cody competition using the valuable resources provided below. 
+If you're part of a student society or club and want to organize an exciting MATLAB or Simulink workshop, we've got you covered! Discover how you can host a MATLAB Onramp Party or a Cody competition using the resources provided below. 
 
 Please note that while MathWorks cannot offer financial support or prizes for these events, we're here to assist you in creating an unforgettable learning experience for your participants. 
 
@@ -615,6 +615,7 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 
 | Different ways to use generative AI with MATLAB | Link |
 |-------------|------|
+| **MATLAB Copilot**: MATLAB Copilot provides generative AI-powered capabilities specifically for the MATLAB desktop environment. It assists with MATLAB workflows and provides responses based on MATLAB-specific information. You can use MATLAB Copilot to learn techniques, develop ideas, and improve productivity. Note that you will need a Copilot license to use this product. | [MATLAB Copilot](https://www.mathworks.com/products/matlab-copilot.html) |
 | **MATLAB GPT on OpenAI Store**: Access MATLAB GPT directly from the OpenAI Store to integrate advanced AI capabilities into your MATLAB workflows effortlessly. Note, you will need an account with OpenAI to use this tool. | [MATLAB GPT](https://chatgpt.com/g/g-QFTjbeK3U-matlab) |
 | **MatGPT App**: Utilize the MatGPT app and class to seamlessly connect to the ChatGPT API from OpenAI™ within MATLAB®. This powerful tool allows you to leverage ChatGPT functionalities directly in your MATLAB environment. Note, you will need a MATLAB license to use this app.| [MatGPT App](https://www.mathworks.com/matlabcentral/fileexchange/126665-matgpt?s_tid=mlc_recom_leaf) |
 | **MATLAB AI Chat Playground**: Explore the MATLAB AI Chat Playground on MathWorks.com to quickly experiment with AI, draft code, and solve problems interactively using AI-powered tools. Note, this is free to use but a MathWorks account is required. | [AI Chat Playground](https://www.mathworks.com/matlabcentral/playground/new) |
