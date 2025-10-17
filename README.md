@@ -257,6 +257,16 @@ MathWorks Student Programs offers students an opportunity to participate in comp
 </tr>
 
 <tr class="odd">
+<td> <b>Participate in the 2025 Simulink Student Challenge!<b> <br>
+<img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/thumbnails/simulink-student-challenge-thumbnail.png" width="400"  />
+<td><ul>
+MathWorks celebrates the talent, creativity, and innovative spirit of students. We aim to showcase students’ innovative projects with the annual Simulink Student Challenge. In this challenge, you’ll have the opportunity to win up to $1000 (USD) by submitting a short original video that shows what you’ve accomplished using Simulink.
+<li><a href="https://www.mathworks.com/academia/students/competitions/student-challenge/simulink-student-challenge.html">Join the competition! </a></li>
+</ul></td>
+</tr>
+
+
+<tr class="odd">
 <td> <b> MATLAB AI Chat Playground and ChatGPT <b> <br>
 <img src="Images/aiplayground.gif" width="400"  />
 <td><ul>
