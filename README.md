@@ -413,9 +413,9 @@ Click on the icon in the table below to access a wealth of additional resources 
 
 ## Academic Discipline
 
-| Physics | Chemistry | Mathematics | Neuroscience |
-|:---:|:---:|:---:|:---:|
-| [![physics](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/atom-aqua.svg)](https://www.mathworks.com/solutions/physics.html) | [![chemistry](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/ivd-devices-orange.svg)](https://www.mathworks.com/solutions/chemistry.html) | [![mathematics](https://www.mathworks.com/content/dam/mathworks/image-gallery/illustrations/miscellaneous/calculator.svg)](https://www.mathworks.com/solutions/mathematics.html) | [![neuroscience](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/brain-black.svg)](https://www.mathworks.com/solutions/neuroscience.html) |
+| Physics | Chemistry | Mathematics | Neuroscience | Mechanical Engineering |
+|:---:|:---:|:---:|:---:|:---:|
+| [![physics](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/atom-aqua.svg)](https://www.mathworks.com/solutions/physics.html) | [![chemistry](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/ivd-devices-orange.svg)](https://www.mathworks.com/solutions/chemistry.html) | [![mathematics](https://www.mathworks.com/content/dam/mathworks/image-gallery/illustrations/miscellaneous/calculator.svg)](https://www.mathworks.com/solutions/mathematics.html) | [![neuroscience](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/brain-black.svg)](https://www.mathworks.com/solutions/neuroscience.html) | [![mechanical engineering](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/pictograms/engineering-aqua.svg)](https://www.mathworks.com/solutions/mechanical-engineering.html) |
 
 | Biological Sciences | Electrical Engineering | Chemical Engineering | Geoscience |
 |:---:|:---:|:---:|:---:|
