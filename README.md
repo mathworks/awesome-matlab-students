@@ -257,11 +257,13 @@ MathWorks Student Programs offers students an opportunity to participate in comp
 </tr>
 
 <tr class="odd">
-<td> <b>Participate in the 2025 Simulink Student Challenge!<b> <br>
-<img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/thumbnails/simulink-student-challenge-thumbnail.png" width="400"  />
+<td> <b>Participate in the Global Drone Virtual Competition 2026!<b> <br>
+<img src="Images/globaldrone.gif" width="400"  />
 <td><ul>
-MathWorks celebrates the talent, creativity, and innovative spirit of students. We aim to showcase students’ innovative projects with the annual Simulink Student Challenge. In this challenge, you’ll have the opportunity to win up to $1000 (USD) by submitting a short original video that shows what you’ve accomplished using Simulink.
-<li><a href="https://www.mathworks.com/academia/students/competitions/student-challenge/simulink-student-challenge.html">Join the competition! </a></li>
+You’ll compete virtually with peers worldwide, enhance your simulation skills, and design a line follower algorithm in a photorealistic Unreal Engine integrated Simulink 3D environment to win exciting rewards. Each level pushes your algorithm’s ability to follow complex paths, adapt to changing weather conditions, and perform a precise landing. Can your skills meet the challenge?
+<br>
+<br>
+<li><a href="https://www.mathworks.com/academia/students/competitions/minidrones/global-drone-student-challenge.html">Join the competition! </a></li>
 </ul></td>
 </tr>
 
