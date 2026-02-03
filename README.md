@@ -39,7 +39,7 @@ Check out this section to explore what MATLAB is, how it is utilized in educatio
 Why is MATLAB important, and how is it used? 
 <li><a href="https://www.youtube.com/watch?v=joilU9m-sNk">MATLAB Overview</a></li>
 <li><a href="https://www.mathworks.com/videos/getting-started-with-matlab-68985.html">Getting Started with MATLAB - 10 Minute Tutorial </a></li>
-<li><a href="https://www.youtube.com/watch?v=xkImXFzYDv4">MATLAB Basics: Back to School Edition </a></li>
+<li><a href="https://youtu.be/KGn5m-LD9Ng?si=v9P80dTkoa-Q8GHH">10 Tips for Students learning MATLAB </a></li>
 <li><a href="https://www.mathworks.com/help/matlab/getting-started-with-matlab.html">Get Started with MATLAB Documentation</a></li>
 <li><a href="https://www.mathworks.com/company/user_stories/designed-with-matlab.html">How will you use MATLAB?</a></li>
 <br>
