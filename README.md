@@ -18,7 +18,7 @@ Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a
 - [Student Programs and Competitions](#student-programs-trophy)
   - [Hackathons and Capstone Projects](#related-matlab-github-resources-for-students)
   - [Student Societies and Clubs](#resources-for-student-societies-and-student-clubs)
-  - [Interactive Examples and Fun Animations](#interactive-and-fun-matlab-examples)
+  - [Interactive Examples and Fun Animations](#interactive-and-fun-matlab-examples-including-cody)
 - [What's New in MATLAB and Simulink](#whats-new-in-matlab-and-simulink)
   - [Use MATLAB with AI](#how-to-use-matlab-with-ai-robot)
 - [Student Career Opportunities](#student-career-opportunities-briefcase)
@@ -285,7 +285,7 @@ Discover the future of coding with the MATLAB AI Chat Playground! Dive into Gene
 ## Self-Paced Onramps
 **Discover and Elevate Your Skills with MATLAB and Simulink Onramps**
 
-[MATLAB and Simulink Onramps](https://matlabacademy.mathworks.com/?s_tid=ln_acad_learn_oc#getting-started) offer a remarkable opportunity to explore a wide range of topics according to your interests and preferred pace. These onramps are designed to be flexible, allowing you to complete them at your convenience while effectively guiding you through various learning objectives. By immersing yourself in these onramps, you can unlock the power of MATLAB and Simulink, elevating your engineering and science skills to new heights.
+[MATLAB and Simulink Onramps](https://matlabacademy.mathworks.com/?s_tid=ln_acad_learn_oc#getting-started) provide a structured and comprehensive pathway for exploring a broad range of topics aligned with individual interests and learning paces. These self‑paced tutorials are designed to be flexible while systematically guiding learners through clearly defined concepts and learning objectives. Engagement with the Onramps enables students to develop a strong foundational understanding of MATLAB and Simulink, thereby enhancing their analytical, engineering, and scientific competencies.
 
 | Machine Learning Onramp | Deep Learning Onramp | Circuit Simulation Onramp | Reinforcement Learning Onramp |
 |-------------------------|---------------------|--------------------------|------------------------------|
@@ -310,7 +310,7 @@ Discover the future of coding with the MATLAB AI Chat Playground! Dive into Gene
 
 Explore this section to find a collection of featured cheat sheets that provide concise references for learning MATLAB functions and commands. Whether you're a beginner or an experienced user, these cheat sheets offer valuable insights and quick reminders to enhance your MATLAB proficiency. To access our complete library of cheat sheets, visit: [Cheat Sheets](CheatSheets)
 
-***Quick Tip! [Use Keyboard Shortcuts to Navigate MATLAB](https://www.mathworks.com/help/matlab/matlab_env/accessibility-use-keyboard-shortcuts-to-navigate-matlab.html)***
+> 💡 **Tip:** Use [MATLAB keyboard shortcuts](https://www.mathworks.com/help/matlab/matlab_env/accessibility-use-keyboard-shortcuts-to-navigate-matlab.html) to navigate MATLAB faster.
 
 <table>
 <tbody>
@@ -442,7 +442,7 @@ Click on the icon in the table below to access a wealth of additional resources 
 ## Student Programs :trophy:
 **Explore Exciting Student Competitions, Hackathons, and Minidrone Contests!**
 
-Unleash your creativity and passion by discovering a world of student competitions, hackathons, mini drone contests, and more! This is your chance to showcase your skills, collaborate with like-minded individuals, and tackle real-world challenges. Don't miss out on the thrilling opportunities that await you! Explore them all [right here!](https://www.mathworks.com/academia/students.html?s_tid=ln_acad_programs_overview)
+Build your MATLAB and Simulink skills through project‑based learning with MathWorks Student Programs, including student competitions, hackathons, and mini‑drone challenges. These hands‑on experiences let you apply classroom concepts to real‑world problems, collaborate with peers, and showcase your work—often with opportunities to win prizes and recognition while you learn. Explore them all [right here!](https://www.mathworks.com/academia/students.html?s_tid=ln_acad_programs_overview)
 
 <div align="center">
   <kbd>
@@ -555,9 +555,9 @@ Please note that while MathWorks cannot offer financial support or prizes for th
 
 ---
 
-## Interactive and Fun MATLAB Examples
+## Interactive and Fun MATLAB Examples (including Cody)
 
-Use this curated collection of interactive examples and animations to further your knowledge of MATLAB. Perfect for both beginners keen on mastering the basics and experienced users in search of entertainment, this assortment offers a unique blend of learning and fun.
+This section includes interactive examples, fun animations, and hands‑on practice opportunities to help you engagingly explore MATLAB. Alongside visual and interactive demos, you’ll also find **MATLAB Cody™**, a place to practice MATLAB problem‑solving through short, game‑like coding challenges that reinforce core concepts while keeping learning fun.
 
 ### 🎲 MATLAB Interactive Examples
 
@@ -580,10 +580,19 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 | [**Fun MATLAB Animation Code**](Fun%20Examples/MATLAB%20Animations) | Code compilation of engaging MATLAB animations. | <img src="Images/Eigenwalker.gif" width="250" alt="MATLAB Animations Code" /> |
 | [**MATLAB Gifs**](Fun%20Examples/MATLAB%20Animations/Gifs) | A showcase of MATLAB's graphical prowess through GIFs. Note, these are the outputs from the code folder above. | <img src="Images/Bucky_Ball.gif" width="250" alt="Fun MATLAB Animations" /> |
 
+
+## 🧩 MATLAB Cody (Practice Problems)
+
+| Item | Description |
+|-----|-------------|
+| **What is Cody?** | **MATLAB Cody™** is an interactive coding challenge platform on MATLAB Central for practicing MATLAB through short, automatically‑graded problems. |
+| **Why use it?** | Improve MATLAB fluency, learn idiomatic solutions, and get instant feedback on correctness and efficiency. |
+| **Who is it for?** | Students learning MATLAB, beginners looking for practice, and anyone who wants to sharpen problem‑solving skills. |
+| **Good problem groups to start with** | 🔹 **Introduction to MATLAB** – https://www.mathworks.com/matlabcentral/cody/groups/78  <br> 🔹 **MATLAB Onramp Practice** – https://www.mathworks.com/matlabcentral/cody/groups/1110  <br> 🔹 **Basics on Vectors** – https://www.mathworks.com/matlabcentral/cody/groups/172 |
+| **Play Cody online** | 🔗 https://www.mathworks.com/matlabcentral/cody/ |
+
+
 ---
-
-
-
 
 ## What's New in MATLAB and Simulink?
 
