@@ -257,13 +257,13 @@ MathWorks Student Programs offers students an opportunity to participate in comp
 </tr>
 
 <tr class="odd">
-<td> <b>Participate in the Global Drone Virtual Competition 2026!<b> <br>
-<img src="Images/globaldrone.gif" width="400"  />
+<td> <b>Participate in the RoboCup Arm Challenge Competition 2026!<b> <br>
+<img src="Images/arm_challenge.gif" width="400"  />
 <td><ul>
-You’ll compete virtually with peers worldwide, enhance your simulation skills, and design a line follower algorithm in a photorealistic Unreal Engine integrated Simulink 3D environment to win exciting rewards. Each level pushes your algorithm’s ability to follow complex paths, adapt to changing weather conditions, and perform a precise landing. Can your skills meet the challenge?
+Calling all robotics students! Participate in the RoboCup ARM challenge for a chance to attend the 2026 RoboCup finals in Incheon, South Korea, along with getting certified for developing skills in algorithm development for robot manipulation. The challenge is live, and registration runs through April 24th. For more information, visit the challenge website.
 <br>
 <br>
-<li><a href="https://www.mathworks.com/academia/students/competitions/minidrones/global-drone-student-challenge.html">Join the competition! </a></li>
+<li><a href="https://arm.robocup.org/">Join the competition! </a></li>
 </ul></td>
 </tr>
 
