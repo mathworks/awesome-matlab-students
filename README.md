@@ -822,8 +822,9 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 |-------------|------|
 | Check out new features and updates in the latest MATLAB Release | [Release Notes!](https://www.mathworks.com/products/new_products/latest_features.html) |
 | Learn how to use Live Editor | [Live Editor](https://www.mathworks.com/products/matlab/live-editor.html) |
-| MATLAB Kernel for Jupyter | [MATLAB + Jupyter](https://blogs.mathworks.com/matlab/2023/06/26/matlab-kernel-for-jupyter-now-with-windows-support/?fbclid=IwAR2Hjrm0Lou-hhu53d_cBKE8irWb7vtb7KnkELjMAQgRA1Yk-9ePHRZRJY0) |
+| Run MATLAB in Jupyter | [MATLAB + Jupyter](https://www.mathworks.com/help/cloudcenter/ug/run-matlab-in-jupyter.html) |
 | MATLAB Extension for Visual Studio Code | [MATLAB + Visual Studio Code](https://github.com/mathworks/matlab-extension-for-vscode) |
+| MATLAB Dark Theme | [MATLAB + Dark Mode](https://www.mathworks.com/help/matlab/matlab_env/change-desktop-colors-and-select-dark-theme.html) |
 
 ---
 
