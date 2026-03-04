@@ -11,10 +11,11 @@ Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a
 
 ## Table of Contents
 
-- [New to MATLAB? Start here!](#new-to-matlab-start-here-computer-bulb)
+- [MATLAB Resource List](#-matlab-resource-list)
+- [Quick Start Guide for New MATLAB Users](#quick-start-guide-for-new-matlab-users)
   - [Self-Paced Onramps](#self-paced-onramps)
   - [Cheat Sheets](#cheat-sheets-blue_book-pencil2)
-- [Quick Start Guide for New MATLAB Users](#quick-start-guide-for-new-matlab-users)
+- [Connecting MATLAB to Hardware](#-connecting-matlab-to-hardware)
 - [Academic Discipline Specific Resources](#industrydiscipline-specific-resources-airplane-racing_car-robot-microscope)
 - [Student Programs and Competitions](#student-programs-trophy)
   - [Hackathons and Capstone Projects](#related-matlab-github-resources-for-students)
@@ -26,9 +27,9 @@ Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a
 - [Student License for MATLAB](#need-a-student-license-of-matlab)
 - [Need Support or Help?](#where-to-go-to-get-help)
 
-## New to MATLAB? Start here! :computer: :bulb:
+## 📋 MATLAB Resource List
 
-Check out this section to explore what MATLAB is, how it is utilized in education and industry, and how it can benefit engineers and scientists globally.
+This table includes some of the most important and highlighted resources in the repository. If you're short on time, use this as a quick reference and explore the rest of the repo for more detailed information.
 
 <table>
 <tbody>
@@ -283,121 +284,6 @@ Discover the future of coding with the MATLAB AI Chat Playground! Dive into Gene
 </table>
 
 ---
-## Self-Paced Onramps
-**Discover and Elevate Your Skills with MATLAB and Simulink Onramps**
-
-[MATLAB and Simulink Onramps](https://matlabacademy.mathworks.com/?s_tid=ln_acad_learn_oc#getting-started) provide a structured and comprehensive pathway for exploring a broad range of topics aligned with individual interests and learning paces. These self‑paced tutorials are designed to be flexible while systematically guiding learners through clearly defined concepts and learning objectives. Engagement with the Onramps enables students to develop a strong foundational understanding of MATLAB and Simulink, thereby enhancing their analytical, engineering, and scientific competencies.
-
-| Machine Learning Onramp | Deep Learning Onramp | Circuit Simulation Onramp | Reinforcement Learning Onramp |
-|-------------------------|---------------------|--------------------------|------------------------------|
-| [![machinelearningonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/machine-learning-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning) | [![deeplearningonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/deep-learning-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/deep-learning-onramp/deeplearning) | [![circuitsimonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/circuit-simulation-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/circuit-simulation-onramp/circuits) | [![reinforcementonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/reinforcement-learning-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/reinforcement-learning-onramp/reinforcementlearning) |
-
-| Image Processing Onramp | Computer Vision Onramp | Signal Processing Onramp | Simscape Onramp |
-|------------------------|-----------------------|-------------------------|-----------------|
-| [![imageprocessonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/image-processing-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/image-processing-onramp/imageprocessing) | [![computervisiononramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/computer-vision-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/computer-vision-onramp/orcv) | [![signalprocessingonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/signal-processing-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/signal-processing-onramp/signalprocessing) | [![simscapeonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/simscape-instructorled-coursecard.jpg)](https://matlabacademy.mathworks.com/details/simscape-onramp/simscape) |
-
-| Stateflow Onramp | Control Design Onramp with Simulink | Optimization Onramp | App Building Onramp |
-|------------------|-------------------------------------|---------------------|---------------------|
-| [![stateflowonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/stateflow-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/stateflow-onramp/stateflow) | [![controldesignonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/control-design-onramp-with-simulink-card.jpg)](https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls) | [![optimizationonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/optimization-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/optimization-onramp/optim) | [![appbuildingonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/app-building-onramp-card.png)](https://matlabacademy.mathworks.com/details/app-building-onramp/orab) |
-
-| MATLAB Onramp | Simulink Onramp |
-|---------------|-----------------|
-| [![mlonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/matlab-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) | [![simulinkonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/academia/student-competitions/minidrone-competition/simulink-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) |
-
----
-## Cheat Sheets :blue_book: :pencil2:
-
-​​**Master MATLAB Functions and Commands with Featured Cheat Sheets**
-
-Explore this section to find a collection of featured cheat sheets that provide concise references for learning MATLAB functions and commands. Whether you're a beginner or an experienced user, these cheat sheets offer valuable insights and quick reminders to enhance your MATLAB proficiency. To access our complete library of cheat sheets, visit: [Cheat Sheets](CheatSheets)
-
-> 💡 **Tip:** Use [MATLAB keyboard shortcuts](https://www.mathworks.com/help/matlab/matlab_env/accessibility-use-keyboard-shortcuts-to-navigate-matlab.html) to navigate MATLAB faster.
-
-<table>
-<tbody>
-
-<tr class="odd">
-<td> <b>MATLAB Basic Functions Cheat Sheet<b> <br>
-<a href="CheatSheets/matlab-basic-functions-reference.pdf"><img src="Images/basicfunctions.png" alt="MATLAB Basic Functions" width="500"></a></td>
-<td><ul>
-  
-[MATLAB Basic Functions Cheat Sheet](CheatSheets/matlab-basic-functions-reference.pdf)
-  
-</ul></td>
-</tr>
-
-<tr class="odd">
-<td> <b>Using MATLAB with Python Cheat Sheet<b> <br>
-<a href="CheatSheets/using-matlab-with-python-cheat-sheet.pdf"><img src="Images/matlabpython.jpg" alt="MATLAB and Python" width="500"></a></td>
-<td><ul>
-  
-[Using MATLAB with Python Cheat Sheet](CheatSheets/using-matlab-with-python-cheat-sheet.pdf)
-<br>
-<br>
-[MATLAB for Python Users](CheatSheets/matlab-for-python-users-cheat-sheet.pdf)
-<br>
-<br>
-[Using Simulink with Python](https://www.mathworks.com/help/simulink/python-code-integration.html)
-<br>
-<br>
-[MATLAB and Python Resource Page](https://www.mathworks.com/products/matlab/getting-started/using-matlab-python.html)
-
-</ul></td>
-</tr>
-
-<tr class="odd">
-<td> <b> Machine Learning with MATLAB Cheat Sheet<b> <br>
-<a href="CheatSheets/machine-learning-quick-start-guide.pdf"><img src="Images/machinelearning.jpg" alt="MATLAB Machine Learning" width="500"></a></td>
-<td><ul>
-  
-[Machine Learning with MATLAB](CheatSheets/machine-learning-quick-start-guide.pdf)
-
-</ul></td>
-</tr>
-
-<tr class="odd">
-<td> <b> MATLAB Visualization Cheat Sheet<b> <br>
-<a href="CheatSheets/MATLAB_Visualization_Reference_EN.pdf"><img src="Images/visualization.jpg" alt="MATLAB Visualization" width="500"></a></td>
-<td><ul>
-  
-[MATLAB Visualization Cheat Sheet](CheatSheets/MATLAB_Visualization_Reference_EN.pdf) 
-<br>
-<br>
-[Check out the MATLAB Plot Gallery for more examples](https://www.mathworks.com/products/matlab/plot-gallery.html)
-</ul></td>
-</tr>
-
-<tr class="odd">
-<td> <b> Modeling Dynamic Systems with MATLAB and Simulink Cheat Sheet <b> <br>
-<a href="CheatSheets/modeling-dynamic-systems-cheat-sheet.png"><img src="Images/modelingdynamicsystems.jpg" alt="Modeling Dynamic Systems" width="500"></a></td>
-<td><ul>
-  
-[Modeling Dynamic Systems Cheat Sheet](CheatSheets/modeling-dynamic-systems-cheat-sheet.png) 
-<br>
-<br>
-[Explore more capabilities for modeling dynamic systems here](https://www.mathworks.com/solutions/control-systems/modeling-dynamic-systems.html?s_eid=PSM_17435)
-
-</ul></td>
-</tr>
-
-<tr class="odd">
-<td> <b> Capabilities for Designing Feedback Control Systems <b> <br>
-<a href="CheatSheets/feedback-control-design-cheat-sheet.png"><img src="Images/controldesign.png" alt="Control Systems" width="500"></a></td>
-<td><ul>
-  
-[Capabilities for Designing Feedback Control Systems](CheatSheets/feedback-control-design-cheat-sheet.png) 
-<br>
-<br>
-[Explore more capabilities for designing and tuning controllers here](https://www.mathworks.com/solutions/control-systems/feedback-control-systems.html)
-
-</ul></td>
-</tr>
-
-
-</tbody>
-</table>
-
----
 ## Quick Start Guide for New MATLAB Users
 
 > **New to MATLAB?** Follow these steps to go from zero to running your first programs. Each step links to the best resource for that topic.
@@ -416,7 +302,7 @@ Before writing any code, you need access to MATLAB.
 
 ### Step 2 — Learn the MATLAB Interface
 
-Get familiar with the Desktop: the **Command Window**, **Workspace**, **Editor**, and **File Browser** are the four areas you'll use most.
+Get familiar with MATLAB Desktop: the **Command Window**, **Workspace**, **Editor**, and **File Browser** are the four areas you'll use most.
 
 | Resource | Link |
 |---|---|
@@ -601,6 +487,148 @@ Everyone gets stuck. Here's where to go for help.
 | Save a figure | `saveas(gcf, 'plot.png')` |
 
 > 💡 **Pro tip:** Type `demo` in the Command Window to launch MATLAB's built-in example browser!
+
+---
+
+## Self-Paced Onramps
+**Discover and Elevate Your Skills with MATLAB and Simulink Onramps**
+
+[MATLAB and Simulink Onramps](https://matlabacademy.mathworks.com/?s_tid=ln_acad_learn_oc#getting-started) provide a structured and comprehensive pathway for exploring a broad range of topics aligned with individual interests and learning paces. These self‑paced tutorials are designed to be flexible while systematically guiding learners through clearly defined concepts and learning objectives. Engagement with the Onramps enables students to develop a strong foundational understanding of MATLAB and Simulink, thereby enhancing their analytical, engineering, and scientific competencies.
+
+| Machine Learning Onramp | Deep Learning Onramp | Circuit Simulation Onramp | Reinforcement Learning Onramp |
+|-------------------------|---------------------|--------------------------|------------------------------|
+| [![machinelearningonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/machine-learning-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning) | [![deeplearningonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/deep-learning-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/deep-learning-onramp/deeplearning) | [![circuitsimonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/circuit-simulation-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/circuit-simulation-onramp/circuits) | [![reinforcementonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/reinforcement-learning-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/reinforcement-learning-onramp/reinforcementlearning) |
+
+| Image Processing Onramp | Computer Vision Onramp | Signal Processing Onramp | Simscape Onramp |
+|------------------------|-----------------------|-------------------------|-----------------|
+| [![imageprocessonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/image-processing-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/image-processing-onramp/imageprocessing) | [![computervisiononramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/computer-vision-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/computer-vision-onramp/orcv) | [![signalprocessingonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/signal-processing-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/signal-processing-onramp/signalprocessing) | [![simscapeonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/simscape-instructorled-coursecard.jpg)](https://matlabacademy.mathworks.com/details/simscape-onramp/simscape) |
+
+| Stateflow Onramp | Control Design Onramp with Simulink | Optimization Onramp | App Building Onramp |
+|------------------|-------------------------------------|---------------------|---------------------|
+| [![stateflowonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/stateflow-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/stateflow-onramp/stateflow) | [![controldesignonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/control-design-onramp-with-simulink-card.jpg)](https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls) | [![optimizationonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/optimization-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/optimization-onramp/optim) | [![appbuildingonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/app-building-onramp-card.png)](https://matlabacademy.mathworks.com/details/app-building-onramp/orab) |
+
+| MATLAB Onramp | Simulink Onramp |
+|---------------|-----------------|
+| [![mlonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/training/matlab-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) | [![simulinkonramp](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/academia/student-competitions/minidrone-competition/simulink-onramp-card.jpg)](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) |
+
+---
+## Cheat Sheets :blue_book: :pencil2:
+
+​​**Master MATLAB Functions and Commands with Featured Cheat Sheets**
+
+Explore this section to find a collection of featured cheat sheets that provide concise references for learning MATLAB functions and commands. Whether you're a beginner or an experienced user, these cheat sheets offer valuable insights and quick reminders to enhance your MATLAB proficiency. To access our complete library of cheat sheets, visit: [Cheat Sheets](CheatSheets)
+
+> 💡 **Tip:** Use [MATLAB keyboard shortcuts](https://www.mathworks.com/help/matlab/matlab_env/accessibility-use-keyboard-shortcuts-to-navigate-matlab.html) to navigate MATLAB faster.
+
+<table>
+<tbody>
+
+<tr class="odd">
+<td> <b>MATLAB Basic Functions Cheat Sheet<b> <br>
+<a href="CheatSheets/matlab-basic-functions-reference.pdf"><img src="Images/basicfunctions.png" alt="MATLAB Basic Functions" width="500"></a></td>
+<td><ul>
+  
+[MATLAB Basic Functions Cheat Sheet](CheatSheets/matlab-basic-functions-reference.pdf)
+  
+</ul></td>
+</tr>
+
+<tr class="odd">
+<td> <b>Using MATLAB with Python Cheat Sheet<b> <br>
+<a href="CheatSheets/using-matlab-with-python-cheat-sheet.pdf"><img src="Images/matlabpython.jpg" alt="MATLAB and Python" width="500"></a></td>
+<td><ul>
+  
+[Using MATLAB with Python Cheat Sheet](CheatSheets/using-matlab-with-python-cheat-sheet.pdf)
+<br>
+<br>
+[MATLAB for Python Users](CheatSheets/matlab-for-python-users-cheat-sheet.pdf)
+<br>
+<br>
+[Using Simulink with Python](https://www.mathworks.com/help/simulink/python-code-integration.html)
+<br>
+<br>
+[MATLAB and Python Resource Page](https://www.mathworks.com/products/matlab/getting-started/using-matlab-python.html)
+
+</ul></td>
+</tr>
+
+<tr class="odd">
+<td> <b> Machine Learning with MATLAB Cheat Sheet<b> <br>
+<a href="CheatSheets/machine-learning-quick-start-guide.pdf"><img src="Images/machinelearning.jpg" alt="MATLAB Machine Learning" width="500"></a></td>
+<td><ul>
+  
+[Machine Learning with MATLAB](CheatSheets/machine-learning-quick-start-guide.pdf)
+
+</ul></td>
+</tr>
+
+<tr class="odd">
+<td> <b> MATLAB Visualization Cheat Sheet<b> <br>
+<a href="CheatSheets/MATLAB_Visualization_Reference_EN.pdf"><img src="Images/visualization.jpg" alt="MATLAB Visualization" width="500"></a></td>
+<td><ul>
+  
+[MATLAB Visualization Cheat Sheet](CheatSheets/MATLAB_Visualization_Reference_EN.pdf) 
+<br>
+<br>
+[Check out the MATLAB Plot Gallery for more examples](https://www.mathworks.com/products/matlab/plot-gallery.html)
+</ul></td>
+</tr>
+
+<tr class="odd">
+<td> <b> Modeling Dynamic Systems with MATLAB and Simulink Cheat Sheet <b> <br>
+<a href="CheatSheets/modeling-dynamic-systems-cheat-sheet.png"><img src="Images/modelingdynamicsystems.jpg" alt="Modeling Dynamic Systems" width="500"></a></td>
+<td><ul>
+  
+[Modeling Dynamic Systems Cheat Sheet](CheatSheets/modeling-dynamic-systems-cheat-sheet.png) 
+<br>
+<br>
+[Explore more capabilities for modeling dynamic systems here](https://www.mathworks.com/solutions/control-systems/modeling-dynamic-systems.html?s_eid=PSM_17435)
+
+</ul></td>
+</tr>
+
+<tr class="odd">
+<td> <b> Capabilities for Designing Feedback Control Systems <b> <br>
+<a href="CheatSheets/feedback-control-design-cheat-sheet.png"><img src="Images/controldesign.png" alt="Control Systems" width="500"></a></td>
+<td><ul>
+  
+[Capabilities for Designing Feedback Control Systems](CheatSheets/feedback-control-design-cheat-sheet.png) 
+<br>
+<br>
+[Explore more capabilities for designing and tuning controllers here](https://www.mathworks.com/solutions/control-systems/feedback-control-systems.html)
+
+</ul></td>
+</tr>
+
+
+</tbody>
+</table>
+
+---
+
+## 🔌 Connecting MATLAB to Hardware
+
+MATLAB supports a wide range of hardware, making it a great tool for hands-on student projects, robotics, and data collection. Use the table below to find the right support package for your hardware.
+
+| Hardware | Description | Link |
+| --- | --- | --- |
+| 🔵 Arduino | Read sensors, control motors, and build interactive projects | [Arduino Support](https://www.mathworks.com/hardware-support/arduino-matlab.html) |
+| 🍓 Raspberry Pi | Run MATLAB code directly on a Raspberry Pi | [Raspberry Pi Support](https://www.mathworks.com/hardware-support/raspberry-pi-matlab.html) |
+| 📡 All Hardware | Browse all supported hardware and support packages | [Hardware Support Home](https://www.mathworks.com/hardware-support/home.html) |
+| 🛠️ Hardware Manager | Discover and connect to devices directly from MATLAB | [Watch Tutorial](https://www.youtube.com/watch?v=IwIF_2tFnVo) |
+
+> 💡 **Tip:** Most hardware support packages are free to install directly from the MATLAB Add-On Explorer. Search for your device by name to get started.
+
+### 🧪 Example Hardware Projects to Try
+
+| Level | Project | Hardware | Type | Link |
+| --- | --- | --- | --- | --- |
+| 🟢 Beginner | Getting Started with Arduino and MATLAB | Arduino | Documentation | [View](https://www.mathworks.com/help/matlab/supportpkg/getting-started-with-matlab-support-package-for-arduino-hardware.html) |
+| 🟢 Beginner | Getting Started with Raspberry Pi and MATLAB | Raspberry Pi | Documentation | [View](https://www.mathworks.com/help/matlab/supportpkg/getting-started-with-matlab-support-package-for-raspberry-pi-hardware.html) |
+| 🟡 Intermediate | Control a Servo Motor with Arduino | Arduino | File Exchange | [View](https://www.mathworks.com/matlabcentral/fileexchange/35356-embedded-coder-arduino-servo-write-block) |
+| 🟡 Intermediate | Working with Raspberry Pi Hardware (GPIO, LEDs, sensors) | Raspberry Pi | MathWorks Example | [View](https://www.mathworks.com/help/matlab/supportpkg/working-with-raspberry-pi-hardware.html) |
+| 🔴 Advanced | Top 5 MATLAB & Simulink Arduino Projects | Arduino | MathWorks Article | [View](https://www.mathworks.com/company/technical-articles/top-5-matlab-and-simulink-arduino-projects.html) |
+| 🔴 Advanced | Deploy MATLAB Algorithms on Raspberry Pi | Raspberry Pi | MathWorks Example | [View](https://www.mathworks.com/help/matlab/supportpkg/getting-started-with-deploying-a-matlab-function-on-the-raspberry-pi-hardware.html) |
 
 ---
 
