@@ -450,7 +450,7 @@ y = x^2 + 3*x - 1;     % Basic arithmetic
 disp(y)                 % Display a value
 ```
 
-📎 Reference: [MATLAB Basic Functions Cheat Sheet](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/matlab-basic-functions-reference.pdf)
+📎 Reference: [MATLAB Basic Functions Cheat Sheet](https://www.mathworks.com/campaigns/offers/matlab-basic-functions-reference-cheat-sheet.html)
 
 ---
 
@@ -553,7 +553,7 @@ save('myworkspace.mat', 'data')
 load('myworkspace.mat')
 ```
 
-📎 Reference: [Importing & Exporting Data Cheat Sheet](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/importing-exporting-data-cheat-sheet.pdf)
+📎 Reference: [Importing & Exporting Data Cheat Sheet](https://www.mathworks.com/campaigns/offers/importing-exporting-data-cheat-sheet.html)
 
 ---
 
