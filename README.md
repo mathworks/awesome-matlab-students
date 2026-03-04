@@ -14,6 +14,7 @@ Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a
 - [New to MATLAB? Start here!](#new-to-matlab-start-here-computer-bulb)
   - [Self-Paced Onramps](#self-paced-onramps)
   - [Cheat Sheets](#cheat-sheets-blue_book-pencil2)
+- [Quick Start Guide for New MATLAB Users](#quick-start-guide-for-new-matlab-users)
 - [Academic Discipline Specific Resources](#industrydiscipline-specific-resources-airplane-racing_car-robot-microscope)
 - [Student Programs and Competitions](#student-programs-trophy)
   - [Hackathons and Capstone Projects](#related-matlab-github-resources-for-students)
@@ -397,6 +398,212 @@ Explore this section to find a collection of featured cheat sheets that provide 
 </table>
 
 ---
+## Quick Start Guide for New MATLAB Users
+
+> **New to MATLAB?** Follow these steps to go from zero to running your first programs. Each step links to the best resource for that topic.
+
+### Step 1 — Get MATLAB
+
+Before writing any code, you need access to MATLAB.
+
+| Option | Link |
+|---|---|
+| 🎓 Check if your school provides free access | [Student License Page](https://www.mathworks.com/products/matlab/student.html) |
+| 🌐 Use MATLAB in your browser (no install needed) | [MATLAB Online](https://matlab.mathworks.com/) |
+| 📱 Use MATLAB on your phone or tablet | [MATLAB Mobile](https://www.mathworks.com/products/matlab-mobile.html) |
+
+---
+
+### Step 2 — Learn the MATLAB Interface
+
+Get familiar with the Desktop: the **Command Window**, **Workspace**, **Editor**, and **File Browser** are the four areas you'll use most.
+
+| Resource | Link |
+|---|---|
+| 📺 Getting Started with MATLAB (10 min video) | [Watch](https://www.mathworks.com/videos/getting-started-with-matlab-68985.html) |
+| 📄 Official "Get Started" Documentation | [Read](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html) |
+| ⌨️ Keyboard Shortcuts Cheat Sheet | [View](https://www.mathworks.com/help/matlab/matlab_env/accessibility-use-keyboard-shortcuts-to-navigate-matlab.html) |
+
+---
+
+### Step 3 — Take the Free MATLAB Onramp (2 Hours)
+
+This is the single best way to learn MATLAB from scratch. It's free, self-paced, and interactive.
+
+| Course | Duration | Link |
+|---|---|---|
+| 🟠 MATLAB Onramp | ~2 hours | [Start](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) |
+
+Once you finish the Onramp, explore the full [course catalog](https://matlabacademy.mathworks.com/) for topics like Machine Learning, Signal Processing, and more.
+
+---
+
+### Step 4 — Learn Essential Commands and Concepts
+
+These are the core building blocks every MATLAB user needs to know. Use the cheat sheets and documentation links below as references.
+
+#### 📐 Variables and Basic Math
+
+```matlab
+x = 5;                  % Assign a variable (semicolon suppresses output)
+y = x^2 + 3*x - 1;     % Basic arithmetic
+disp(y)                 % Display a value
+```
+
+📎 Reference: [MATLAB Basic Functions Cheat Sheet](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/matlab-basic-functions-reference.pdf)
+
+---
+
+#### 📊 Vectors and Matrices
+
+MATLAB is built around matrices — understanding them is essential.
+
+```matlab
+v = [1, 2, 3, 4, 5];       % Row vector
+A = [1 2; 3 4];             % 2x2 matrix
+A'                          % Transpose
+A * A                       % Matrix multiplication
+size(A)                     % Dimensions of A
+```
+
+📎 Reference: [MATLAB Documentation – Arrays](https://www.mathworks.com/help/matlab/matrices-and-arrays.html)
+
+---
+
+#### 📈 Plotting
+
+Visualization is one of MATLAB's greatest strengths. Start with `plot` and build up from there.
+
+```matlab
+x = 0:0.1:2*pi;
+y = sin(x);
+plot(x, y)
+xlabel('x')
+ylabel('sin(x)')
+title('My First Plot')
+grid on
+```
+
+| Resource | Link |
+|---|---|
+| 📄 MATLAB Visualization Cheat Sheet | [View](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/MATLAB_Visualization_Reference_EN.pdf) |
+| 🎨 MATLAB Plot Gallery (examples for every chart type) | [Explore](https://www.mathworks.com/products/matlab/plot-gallery.html) |
+| 📺 How-To: Basic Plotting Video | [Watch](https://www.mathworks.com/videos/using-basic-plotting-functions-69018.html?s_tid=srchtitle_videos_main_6_how+to+plot) |
+
+---
+
+#### 🔁 Control Flow (Loops and Conditionals)
+
+```matlab
+% For loop
+for i = 1:5
+    disp(i)
+end
+
+% If/else
+x = 10;
+if x > 5
+    disp('Greater than 5')
+else
+    disp('5 or less')
+end
+
+% While loop
+n = 1;
+while n < 10
+    n = n * 2;
+end
+```
+
+📎 Reference: [Control Flow Documentation](https://www.mathworks.com/help/matlab/control-flow.html)
+
+---
+
+#### 🔧 Writing Functions
+
+Organizing code into functions is a key skill.
+
+```matlab
+% Save this as mySquare.m
+function result = mySquare(x)
+    result = x .^ 2;
+end
+
+% Call it like this:
+mySquare(4)   % Returns 16
+```
+
+📎 Reference: [Functions Documentation](https://www.mathworks.com/help/matlab/functions.html)
+
+---
+
+#### 📂 Importing and Exporting Data
+
+```matlab
+% Read a CSV file
+data = readtable('mydata.csv');
+
+% Read a spreadsheet
+T = readtable('results.xlsx');
+
+% Save a variable
+save('myworkspace.mat', 'data')
+
+% Load it back
+load('myworkspace.mat')
+```
+
+📎 Reference: [Importing & Exporting Data Cheat Sheet](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/importing-exporting-data-cheat-sheet.pdf)
+
+---
+
+### Step 5 — Practice with Cody
+
+Once you know the basics, practice is the fastest way to improve. **MATLAB Cody** offers short, auto-graded problems — like coding puzzles — to sharpen your skills.
+
+| Cody Problem Set | Link |
+|---|---|
+| 🔹 Introduction to MATLAB | [Start Here](https://www.mathworks.com/matlabcentral/cody/groups/78) |
+| 🔹 MATLAB Onramp Practice | [Practice](https://www.mathworks.com/matlabcentral/cody/groups/1110) |
+| 🔹 Basics on Vectors | [Vectors](https://www.mathworks.com/matlabcentral/cody/groups/172) |
+| 🔹 All Cody Problems | [Browse All](https://www.mathworks.com/matlabcentral/cody/) |
+
+---
+
+### Step 6 — Get Unstuck
+
+Everyone gets stuck. Here's where to go for help.
+
+| Resource | Link |
+|---|---|
+| 💬 MATLAB Answers (community Q&A) | [Ask a question](https://www.mathworks.com/matlabcentral/answers/) |
+| 🤖 MATLAB AI Chat Playground (free, AI-powered help) | [Try it](https://www.mathworks.com/matlabcentral/playground/new) |
+| 🔍 Use `help` or `doc` in the Command Window | Type `help plot` or `doc plot` |
+| 👾 Discord Community | [Join](https://discord.com/invite/TsDarpu) |
+| 🌐 Reddit r/matlab | [Browse](https://www.reddit.com/r/matlab/) |
+
+---
+
+### Quick Reference Card
+
+| Task | Command |
+|---|---|
+| Get help on a function | `help functionName` |
+| Open documentation | `doc functionName` |
+| Clear Command Window | `clc` |
+| Clear all variables | `clear` |
+| Close all figure windows | `close all` |
+| Check size of a variable | `size(x)` |
+| See all workspace variables | `whos` |
+| Generate a range of numbers | `1:10` or `linspace(0,1,100)` |
+| Basic 2D plot | `plot(x, y)` |
+| Add a title | `title('My Title')` |
+| Save a figure | `saveas(gcf, 'plot.png')` |
+
+> 💡 **Pro tip:** Type `demo` in the Command Window to launch MATLAB's built-in example browser!
+
+---
+
 ## Industry/Discipline-Specific Resources :airplane: :racing_car: :robot: :microscope:
 
 **Explore Additional Resources for Your Academic Discipline or Industry**
