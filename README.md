@@ -596,6 +596,9 @@ Explore this section to find a collection of featured cheat sheets that provide 
 <br>
 <br>
 [Explore more capabilities for designing and tuning controllers here](https://www.mathworks.com/solutions/control-systems/feedback-control-systems.html)
+<br>
+<br>
+[Watch: 5 Misconceptions About Control Engineering by Brian Douglas](https://youtu.be/83lV4S2mLlA?si=IwGjYgcPqWlkkkwX)
 
 </ul></td>
 </tr>
