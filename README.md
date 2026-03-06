@@ -628,9 +628,9 @@ MATLAB supports a wide range of hardware, making it a great tool for hands-on st
 | --- | --- | --- | --- | --- |
 | 🟢 Beginner | Getting Started with Arduino and MATLAB | Arduino | Documentation | [View](https://www.mathworks.com/help/matlab/supportpkg/getting-started-with-matlab-support-package-for-arduino-hardware.html) |
 | 🟢 Beginner | Getting Started with Raspberry Pi and MATLAB | Raspberry Pi | Documentation | [View](https://www.mathworks.com/help/matlab/supportpkg/getting-started-with-matlab-support-package-for-raspberry-pi-hardware.html) |
-| 🟡 Intermediate | Control a Servo Motor with Arduino | Arduino | File Exchange | [View](https://www.mathworks.com/matlabcentral/fileexchange/35356-embedded-coder-arduino-servo-write-block) |
+| 🟡 Intermediate | Control a Servo Motor with Arduino | Arduino | MathWorks Example | [View](https://www.mathworks.com/help/matlab/supportpkg/control-servo-motors.html) |
 | 🟡 Intermediate | Working with Raspberry Pi Hardware (GPIO, LEDs, sensors) | Raspberry Pi | MathWorks Example | [View](https://www.mathworks.com/help/matlab/supportpkg/working-with-raspberry-pi-hardware.html) |
-| 🔴 Advanced | Top 5 MATLAB & Simulink Arduino Projects | Arduino | MathWorks Article | [View](https://www.mathworks.com/company/technical-articles/top-5-matlab-and-simulink-arduino-projects.html) |
+| 🔴 Advanced | Estimating Orientation Using Inertial Sensor Fusion and MPU-9250 | Arduino | MathWorks Example | [View](https://www.mathworks.com/help/matlab/supportpkg/estimating-orientation-using-inertial-sensor-fusion-and-mpu9250.html) |
 | 🔴 Advanced | Deploy MATLAB Algorithms on Raspberry Pi | Raspberry Pi | MathWorks Example | [View](https://www.mathworks.com/help/matlab/supportpkg/getting-started-with-deploying-a-matlab-function-on-the-raspberry-pi-hardware.html) |
 
 ---
