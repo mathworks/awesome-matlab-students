@@ -11,7 +11,7 @@ Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a
 
 ## Table of Contents
 
-- [MATLAB Resource List](#-matlab-resource-list)
+- [MATLAB Resources List](#-matlab-resources-list)
 - [Quick Start Guide for New MATLAB Users](#quick-start-guide-for-new-matlab-users)
   - [Self-Paced Onramps](#self-paced-onramps)
   - [Cheat Sheets](#cheat-sheets-blue_book-pencil2)
@@ -27,7 +27,7 @@ Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a
 - [Student License for MATLAB](#need-a-student-license-of-matlab)
 - [Need Support or Help?](#where-to-go-to-get-help)
 
-## 📋 MATLAB Resource List
+## 📋 MATLAB Resources List
 
 This table includes some of the most important and highlighted resources in the repository. If you're short on time, use this as a quick reference and explore the rest of the repo for more detailed information.
 
