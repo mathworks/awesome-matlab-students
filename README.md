@@ -883,6 +883,9 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 | **MatGPT App**: Utilize the MatGPT app and class to seamlessly connect to the ChatGPT API from OpenAI™ within MATLAB®. This powerful tool allows you to leverage ChatGPT functionalities directly in your MATLAB environment. Note, you will need a MATLAB license to use this app. | [MatGPT App](https://www.mathworks.com/matlabcentral/fileexchange/126665-matgpt?s_tid=mlc_recom_leaf) |
 | **MATLAB AI Chat Playground**: Explore the MATLAB AI Chat Playground on MathWorks.com to quickly experiment with AI, draft code, and solve problems interactively using AI-powered tools. Note, this is free to use but a MathWorks account is required. | [AI Chat Playground](https://www.mathworks.com/matlabcentral/playground/new) |
 | **MATLAB MCP Core Server**: Integrate MATLAB into agentic AI workflows using the Model Context Protocol (MCP). MATLAB MCP Core Server standardizes connections between agentic AI apps (Claude Desktop®, Visual Studio Code®, Gemini CLI®) and MATLAB, enabling code execution, debugging, and automation. | [MATLAB MCP Core Server](https://www.mathworks.com/products/matlab-mcp-core-server.html) |
+
+> 💡 **Tip:** Explore the [Agentic AI with MATLAB - Ebook](https://www.mathworks.com/campaigns/offers/next/agentic-ai-with-matlab.html?s_eid=PSM_1772558841&user_id=6655f889005eb6030c221c8a&sn_type=LINKEDIN&cpost_id=69b2cc3fc82f5631c18ed811&post_id=19761163792&asset_id=ADVOCACY_205_69a95b4818e1532c2ac716ca) to get a clearer understanding of Agentic AI workflows with MATLAB.
+
 ---
 ## Student Career Opportunities :briefcase:
 
