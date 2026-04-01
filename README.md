@@ -398,7 +398,9 @@ end
 n = 1;
 while n < 10
     n = n * 2;
+    disp(n)   % Shows each value: 2, 4, 8, 16
 end
+% Loop stops when n = 16, because 16 is not < 10
 ```
 
 📎 Reference: [Control Flow Documentation](https://www.mathworks.com/help/matlab/control-flow.html)
@@ -412,11 +414,14 @@ Organizing code into functions is a key skill.
 ```matlab
 % Save this as mySquare.m
 function result = mySquare(x)
+    % .^ is element-wise exponentiation — works on both scalars AND arrays
+    % Use ^ only for scalar or matrix exponentiation
     result = x .^ 2;
 end
 
 % Call it like this:
-mySquare(4)   % Returns 16
+mySquare(4)         % Returns 16
+mySquare([1 2 3])   % Returns [1 4 9] — this is why .^ matters!
 ```
 
 📎 Reference: [Functions Documentation](https://www.mathworks.com/help/matlab/functions.html)
