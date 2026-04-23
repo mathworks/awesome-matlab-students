@@ -842,13 +842,8 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 <table>
   <tr>
     <td>
-      <a href="CheatSheets/R2025a-b-cheat-sheet-1.pdf">
-        <img src="Images/R2025a-b-1.png" alt="R2025a part 1" width="350">
-      </a>
-    </td>
-    <td>
-      <a href="CheatSheets/R2025a-b-cheat-sheet-2.pdf">
-        <img src="Images/R2025a-b-2.png" alt="R2025a part 2" width="350">
+      <a href="CheatSheets/R2026a-cheat-sheet.pdf">
+        <img src="Images/R2026a.png" alt="R2026a" width="350">
       </a>
     </td>
   </tr>
