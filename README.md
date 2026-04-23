@@ -876,9 +876,10 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
   </tr>
 </table>
 
-| Different ways to use generative AI with MATLAB | Link |
+| Different ways to use generative AI with MATLAB & Simulink | Link |
 |-------------|------|
 | **MATLAB Copilot**: MATLAB Copilot provides generative AI-powered capabilities specifically for the MATLAB desktop environment. It assists with MATLAB workflows and provides responses based on MATLAB-specific information. You can use MATLAB Copilot to learn techniques, develop ideas, and improve productivity. Note that you will need a Copilot license to use this product. | [MATLAB Copilot](https://www.mathworks.com/products/matlab-copilot.html) |
+| **Simulink Copilot**: Simulink Copilot provides generative AI-powered capabilities focused on Simulink and Model-Based Design. You can use Simulink Copilot to explain models and errors, learn tools and techniques, get design guidance, and automate predefined tasks, such as checking modeling standards, running tests, and generating code. Note that you will need a Copilot license to use this product. | [Simulink Copilot](https://www.mathworks.com/products/simulink-copilot.html) |
 | **MATLAB GPT on OpenAI Store**: Access MATLAB GPT directly from the OpenAI Store to integrate advanced AI capabilities into your MATLAB workflows effortlessly. Note, you will need an account with OpenAI to use this tool. | [MATLAB GPT](https://chatgpt.com/g/g-QFTjbeK3U-matlab) |
 | **MatGPT App**: Utilize the MatGPT app and class to seamlessly connect to the ChatGPT API from OpenAI™ within MATLAB®. This powerful tool allows you to leverage ChatGPT functionalities directly in your MATLAB environment. Note, you will need a MATLAB license to use this app. | [MatGPT App](https://www.mathworks.com/matlabcentral/fileexchange/126665-matgpt?s_tid=mlc_recom_leaf) |
 | **MATLAB AI Chat Playground**: Explore the MATLAB AI Chat Playground on MathWorks.com to quickly experiment with AI, draft code, and solve problems interactively using AI-powered tools. Note, this is free to use but a MathWorks account is required. | [AI Chat Playground](https://www.mathworks.com/matlabcentral/playground/new) |
