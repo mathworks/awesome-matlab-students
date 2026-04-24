@@ -22,7 +22,10 @@ Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a
   - [Student Societies and Clubs](#resources-for-student-societies-and-student-clubs)
   - [Interactive Examples and Fun Animations](#interactive-and-fun-matlab-examples-including-cody)
 - [What's New in MATLAB and Simulink](#whats-new-in-matlab-and-simulink)
-  - [Use MATLAB with AI](#how-to-use-matlab-with-ai-robot)
+- [Generative AI with MATLAB & Simulink](#generative-ai-with-matlab--simulink)
+  - [Copilot Products](#mathworks-copilot-products)
+  - [Agentic AI Toolkits](#agentic-ai-toolkits)
+  - [Additional AI Tools](#additional-ai-tools)
 - [Student Career Opportunities](#student-career-opportunities-briefcase)
 - [Student License for MATLAB](#need-a-student-license-of-matlab)
 - [Need Support or Help?](#where-to-go-to-get-help)
@@ -271,16 +274,17 @@ Calling all robotics students! Participate in the RoboCup ARM challenge for a ch
 
 
 <tr class="odd">
-<td> <b> MATLAB AI Chat Playground and ChatGPT <b> <br>
+<td> <b> Generative AI with MATLAB & Simulink </b> <br>
 <img src="Images/aiplayground.gif" width="400"  />
 <td><ul>
-Discover the future of coding with the MATLAB AI Chat Playground! Dive into Generative AI to swiftly draft code, solve intricate problems, and accelerate your MATLAB projects like never before. 
-<li><a href="https://www.mathworks.com/matlabcentral/playground">The MATLAB AI Chat Playground is ready for you to experiment with Generative AI, answer questions, and write an initial draft of MATLAB® code. </a></li>
-<li><a href="https://chatgpt.com/g/g-QFTjbeK3U-matlab"> MATLAB GPT is now available on the OpenAI GPT Store </a></li>
+Explore the growing ecosystem of generative AI tools for MATLAB and Simulink, from AI assistants built into the desktop to agentic workflows and chat-based coding tools.
+<li><a href="https://www.mathworks.com/products/matlab-copilot.html"> MATLAB Copilot provides AI-powered assistance directly in the MATLAB desktop environment.</a></li>
+<li><a href="https://www.mathworks.com/matlabcentral/playground"> The MATLAB AI Chat Playground lets you experiment with AI, answer questions, and draft MATLAB code, free with a MathWorks account.</a></li>
+<li><a href="https://chatgpt.com/g/g-QFTjbeK3U-matlab"> MATLAB GPT is available on the OpenAI GPT Store.</a></li>
+<li><a href="#generative-ai-with-matlab--simulink"> See the full list of generative AI tools including agentic toolkits and MCP integrations.</a></li>
 </ul></td>
 </tr>
 
-</tbody>
 </table>
 
 ---
@@ -620,8 +624,8 @@ MATLAB supports a wide range of hardware, making it a great tool for hands-on st
 
 | Hardware | Description | Link |
 | --- | --- | --- |
-| 🔵 Arduino | Read sensors, control motors, and build interactive projects | [Arduino Support](https://www.mathworks.com/hardware-support/arduino-matlab.html) |
-| 🍓 Raspberry Pi | Run MATLAB code directly on a Raspberry Pi | [Raspberry Pi Support](https://www.mathworks.com/hardware-support/raspberry-pi-matlab.html) |
+| 🔵 Arduino® | Read sensors, control motors, and build interactive projects | [Arduino Support](https://www.mathworks.com/hardware-support/arduino-matlab.html) |
+| 🍓 Raspberry Pi® | Run MATLAB code directly on a Raspberry Pi | [Raspberry Pi Support](https://www.mathworks.com/hardware-support/raspberry-pi-matlab.html) |
 | 📡 All Hardware | Browse all supported hardware and support packages | [Hardware Support Home](https://www.mathworks.com/hardware-support/home.html) |
 | 🛠️ Hardware Manager | Discover and connect to devices directly from MATLAB | [Watch Tutorial](https://www.youtube.com/watch?v=IwIF_2tFnVo) |
 
@@ -859,36 +863,46 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 
 ---
 
-### How to use MATLAB with AI :robot:
+## Generative AI with MATLAB & Simulink
 
-<table>
-  <tr>
-    <td>
-      <a href="CheatSheets/R2024a-ai-cheat-sheet.pdf">
-        <img src="Images/AIR2024a.jpg" alt="AI for R2024a" width="350">
-      </a>
-    </td>
-    <td>
-      <a href="CheatSheets/R2024b-ai-cheat-sheet.pdf">
-        <img src="Images/R2024bai.png" alt="AI for R2024b" width="350">
-      </a>
-    </td>
-  </tr>
-</table>
+> 🌐 **Overview**: For a full overview of generative AI capabilities in MATLAB and Simulink, visit the [MathWorks Generative AI page](https://www.mathworks.com/products/matlab/generative-ai.html).
 
-| Different ways to use generative AI with MATLAB & Simulink | Link |
-|-------------|------|
-| **MATLAB Copilot**: MATLAB Copilot provides generative AI-powered capabilities specifically for the MATLAB desktop environment. It assists with MATLAB workflows and provides responses based on MATLAB-specific information. You can use MATLAB Copilot to learn techniques, develop ideas, and improve productivity. Note that you will need a Copilot license to use this product. | [MATLAB Copilot](https://www.mathworks.com/products/matlab-copilot.html) |
-| **Simulink Copilot**: Simulink Copilot provides generative AI-powered capabilities focused on Simulink and Model-Based Design. You can use Simulink Copilot to explain models and errors, learn tools and techniques, get design guidance, and automate predefined tasks, such as checking modeling standards, running tests, and generating code. Note that you will need a Copilot license to use this product. | [Simulink Copilot](https://www.mathworks.com/products/simulink-copilot.html) |
-| **MATLAB GPT on OpenAI Store**: Access MATLAB GPT directly from the OpenAI Store to integrate advanced AI capabilities into your MATLAB workflows effortlessly. Note, you will need an account with OpenAI to use this tool. | [MATLAB GPT](https://chatgpt.com/g/g-QFTjbeK3U-matlab) |
-| **MatGPT App**: Utilize the MatGPT app and class to seamlessly connect to the ChatGPT API from OpenAI™ within MATLAB®. This powerful tool allows you to leverage ChatGPT functionalities directly in your MATLAB environment. Note, you will need a MATLAB license to use this app. | [MatGPT App](https://www.mathworks.com/matlabcentral/fileexchange/126665-matgpt?s_tid=mlc_recom_leaf) |
-| **MATLAB AI Chat Playground**: Explore the MATLAB AI Chat Playground on MathWorks.com to quickly experiment with AI, draft code, and solve problems interactively using AI-powered tools. Note, this is free to use but a MathWorks account is required. | [AI Chat Playground](https://www.mathworks.com/matlabcentral/playground/new) |
-| **MATLAB MCP Core Server**: Integrate MATLAB into agentic AI workflows using the Model Context Protocol (MCP). MATLAB MCP Core Server standardizes connections between agentic AI apps (Claude Desktop®, Visual Studio Code®, Gemini CLI®) and MATLAB, enabling code execution, debugging, and automation. | [MATLAB MCP Core Server](https://www.mathworks.com/products/matlab-mcp-core-server.html) |
-| **MATLAB Agentic Toolkit**: Brings trusted MATLAB capabilities to AI coding agents, making engineering and scientific workflows agent-ready. It gives your agent a live connection to MATLAB via the Model Context Protocol (MCP), an open standard for connecting AI agents to external tools, along with curated expert skills (testing, debugging, app building, code review, and more) so it can work with idiomatic MATLAB from the start. Supports Claude Code, GitHub Copilot, Cursor, Codex, Gemini CLI, and Amp. Requires MATLAB R2020b or later, a supported AI coding agent, and the MATLAB MCP Core Server. | [MATLAB Agentic Toolkit](https://github.com/matlab/matlab-agentic-toolkit/) |
-| **Simulink Agentic Toolkit**: Gives your AI coding agent both the MCP tools and the domain expertise to work effectively with Simulink and Model-Based Design. Includes 6 MCP tools for reading, editing, querying, and testing Simulink models, plus 7 agent skills encoding Model-Based Design best practices. Like the MATLAB Agentic Toolkit, it relies on the MATLAB MCP Core Server to bridge your agent and MATLAB. Supports the same coding agents. Requires MATLAB R2023a or later with Simulink.  | [Simulink Agentic Toolkit](https://github.com/matlab/simulink-agentic-toolkit) |
+---
 
-> 💡 **Tip:** Explore the [Agentic AI with MATLAB - Ebook](https://www.mathworks.com/campaigns/offers/next/agentic-ai-with-matlab.html?s_eid=PSM_1772558841&user_id=6655f889005eb6030c221c8a&sn_type=LINKEDIN&cpost_id=69b2cc3fc82f5631c18ed811&post_id=19761163792&asset_id=ADVOCACY_205_69a95b4818e1532c2ac716ca) to get a clearer understanding of Agentic AI workflows with MATLAB.
+## MathWorks Copilot Products
+*AI assistants built into the MATLAB and Simulink desktop environments. Require a Copilot license.*
 
+| Product | Description | Link |
+|---------|-------------|------|
+| **MATLAB Copilot** | AI-powered assistant for the MATLAB desktop and MATLAB Online. Helps you learn techniques, develop ideas, and improve productivity using MATLAB-specific knowledge. | [MATLAB Copilot](https://www.mathworks.com/products/matlab-copilot.html) |
+| **Simulink Copilot** | AI-powered assistant focused on Simulink and Model-Based Design. Explains models and errors, guides design, and automates tasks like standards checking, testing, and code generation. | [Simulink Copilot](https://www.mathworks.com/products/simulink-copilot.html) |
+
+---
+
+## Agentic AI Toolkits
+*Connect AI coding agents to MATLAB and Simulink via the Model Context Protocol (MCP). Supports Claude Code, GitHub Copilot, Cursor, Codex, Gemini CLI, and Amp.*
+
+| Product | Description | Link |
+|---------|-------------|------|
+| **MATLAB MCP Core Server** | The foundation for agentic AI workflows with MATLAB. Standardizes connections between AI coding agents (Claude Desktop, VS Code, Gemini CLI) and MATLAB for code execution, debugging, and automation. | [MATLAB MCP Core Server](https://www.mathworks.com/products/matlab-mcp-core-server.html) |
+| **MATLAB Agentic Toolkit** | Brings MATLAB capabilities to AI coding agents via MCP, with curated expert skills for testing, debugging, app building, and code review. Requires MATLAB R2020b or later and the MATLAB MCP Core Server. | [MATLAB Agentic Toolkit](https://github.com/matlab/matlab-agentic-toolkit/) |
+| **Simulink Agentic Toolkit** | Extends agentic AI to Simulink and Model-Based Design. Includes 6 MCP tools for reading, editing, querying, and testing Simulink models, plus 7 agent skills encoding best practices. Requires MATLAB R2023a or later with Simulink and the MATLAB MCP Core Server. | [Simulink Agentic Toolkit](https://github.com/matlab/simulink-agentic-toolkit) |
+| **AI Coding Agent Prompts for MATLAB** | A curated library of prompts for AI coding agents working with MATLAB, helping you get better results from agents like GitHub Copilot, Cursor, and others. | [AI Coding Agent Prompts](https://github.com/matlab/prompts) |
+
+---
+
+## Additional AI Tools
+*Experiment with AI and MATLAB through chat interfaces and community tools. Some require a MathWorks, OpenAI, or MATLAB license.*
+
+| Product | Description | Link |
+|---------|-------------|------|
+| **MATLAB AI Chat Playground** | A free, browser-based sandbox to experiment with AI, draft MATLAB code, and solve problems interactively. Requires a free MathWorks account. | [AI Chat Playground](https://www.mathworks.com/matlabcentral/playground/new) |
+| **MATLAB GPT** | Access MATLAB-specialized GPT directly from the OpenAI Store. Requires an OpenAI account. | [MATLAB GPT](https://chatgpt.com/g/g-QFTjbeK3U-matlab) |
+| **MatGPT App** | A MATLAB app and class for connecting to the ChatGPT API directly within MATLAB. Requires a MATLAB license. | [MatGPT App](https://www.mathworks.com/matlabcentral/fileexchange/126665-matgpt) |
+
+---
+
+> 💡 **Tip:** Explore the [Agentic AI with MATLAB Ebook](https://www.mathworks.com/campaigns/offers/next/agentic-ai-with-matlab.html?s_eid=PSM_1772558841&user_id=6655f889005eb6030c221c8a&sn_type=LINKEDIN&cpost_id=69b2cc3fc82f5631c18ed811&post_id=19761163792&asset_id=ADVOCACY_205_69a95b4818e1532c2ac716ca) for a deeper dive into Agentic AI workflows with MATLAB.
 ---
 ## Student Career Opportunities :briefcase:
 
