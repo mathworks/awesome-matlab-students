@@ -418,8 +418,8 @@ Functions keep your code organized and reusable. Save each function in its own `
 ```matlab
 % Save this as mySquare.m
 function result = mySquare(x)
-    % .^ is element-wise exponentiation — works on scalars AND arrays
-    % Use ^ only for scalar or matrix exponentiation
+    % ^ is matrix power (requires square matrices)
+    % .^ is element-wise power (works on arrays of any shape)
     result = x .^ 2;
 end
 ```
@@ -428,7 +428,7 @@ Call it from the Command Window or a separate script:
 mySquare(4)           % Returns 16
 mySquare([1 2 3])     % Returns [1 4 9] — this is why .^ matters
 ```
-**Note**: Always include the `end` keyword to close a function. It's required when the function is used inside a script and is a good practice in all cases.
+**Note**: Include the `end` keyword when defining functions inside scripts or when using multiple functions in one file. It’s also good practice for consistency.
 
 📎 Reference: [Functions Documentation](https://www.mathworks.com/help/matlab/functions.html)
 
@@ -449,7 +449,7 @@ save('myworkspace.mat', 'data')
 % Load it back
 load('myworkspace.mat')
 ```
-**Note:** For multi-sheet Excel files or specific ranges, use `readmatrix()` instead — `readtable()` reads the first sheet by default.
+**Note:** `readtable()` reads the first sheet by default, but you can specify other sheets and ranges using `"Sheet"` and `"Range"`. Use `readmatrix()` when you want numeric arrays instead of tables.
 
 📎 Reference: [Importing & Exporting Data Cheat Sheet](https://www.mathworks.com/campaigns/offers/importing-exporting-data-cheat-sheet.html)
 
