@@ -868,9 +868,17 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 
 ## Generative AI with MATLAB & Simulink
 
-> 🌐 **Overview**: For a full overview of generative AI capabilities in MATLAB and Simulink, visit the [MathWorks Generative AI page](https://www.mathworks.com/products/matlab/generative-ai.html).
+🌐 **Overview**: For a full overview of generative AI capabilities in MATLAB and Simulink, visit the [MathWorks Generative AI page](https://www.mathworks.com/products/matlab/generative-ai.html).
+<table>
+  <tr>
+    <td>
+      <a href="CheatSheets/R2026a-ai-cheat-sheet.pdf">
+        <img src="Images/R2026a-ai.png" alt="R2026ai" width="350">
+      </a>
+    </td>
+  </tr>
+</table>
 
----
 
 ## MathWorks Copilot Products
 *AI assistants built into the MATLAB and Simulink desktop environments. Require a Copilot license.*
