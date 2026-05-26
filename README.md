@@ -262,18 +262,6 @@ MathWorks Student Programs offers students an opportunity to participate in comp
 </tr>
 
 <tr class="odd">
-<td> <b>Participate in the RoboCup Arm Challenge Competition 2026!<b> <br>
-<img src="Images/arm_challenge.gif" width="400"  />
-<td><ul>
-Calling all robotics students! Participate in the RoboCup ARM challenge for a chance to attend the 2026 RoboCup finals in Incheon, South Korea, along with getting certified for developing skills in algorithm development for robot manipulation. The challenge is live, and registration runs through April 24th. For more information, visit the challenge website.
-<br>
-<br>
-<li><a href="https://arm.robocup.org/">Join the competition! </a></li>
-</ul></td>
-</tr>
-
-
-<tr class="odd">
 <td> <b> Generative AI with MATLAB & Simulink </b> <br>
 <img src="Images/aiplayground.gif" width="400"  />
 <td><ul>
@@ -683,7 +671,7 @@ Click on the icon in the table below to access a wealth of additional resources 
 #### Additional Resources:
 - [MATLAB and Simulink Webinars/Videos](https://www.mathworks.com/videos.html)
 - Additional Online Courses with [edX](https://www.edx.org/school/mathworks) and [COURSERA!](https://www.coursera.org/mathworks)
-- [Industry User Stories](https://www.mathworks.com/company/user_stories/search.html?q=&page=1)
+- [Industry Customer Stories](https://www.mathworks.com/company/customer-stories/search.html?q=&page=1)
 - [External Language Interfaces](https://www.mathworks.com/help/matlab/external-language-interfaces.html)
 - [Interactive Discipline Specific Examples](https://www.mathworks.com/matlabcentral/fileexchange/?term=tag:%22courseware+module%22)
 
