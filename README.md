@@ -683,7 +683,7 @@ Click on the icon in the table below to access a wealth of additional resources 
 #### Additional Resources:
 - [MATLAB and Simulink Webinars/Videos](https://www.mathworks.com/videos.html)
 - Additional Online Courses with [edX](https://www.edx.org/school/mathworks) and [COURSERA!](https://www.coursera.org/mathworks)
-- [Industry User Stories](https://www.mathworks.com/company/user_stories/search.html?q=&page=1)
+- [Industry User Stories](https://www.mathworks.com/company/customer-stories/search.html)
 - [External Language Interfaces](https://www.mathworks.com/help/matlab/external-language-interfaces.html)
 - [Interactive Discipline Specific Examples](https://www.mathworks.com/matlabcentral/fileexchange/?term=tag:%22courseware+module%22)
 
