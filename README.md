@@ -22,7 +22,7 @@ Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a
   - [Student Societies and Clubs](#resources-for-student-societies-and-student-clubs)
   - [Interactive Examples and Fun Animations](#interactive-and-fun-matlab-examples-including-cody)
 - [What's New in MATLAB and Simulink](#whats-new-in-matlab-and-simulink)
-- [Generative AI with MATLAB & Simulink](#generative-ai-with-matlab--simulink)
+- [Generative and Agentic AI with MATLAB & Simulink](#generative-and-agentic-ai-with-matlab--simulink)
   - [Copilot Products](#mathworks-copilot-products)
   - [Agentic AI Toolkits](#agentic-ai-toolkits)
   - [Additional AI Tools](#additional-ai-tools)
@@ -262,14 +262,13 @@ MathWorks Student Programs offers students an opportunity to participate in comp
 </tr>
 
 <tr class="odd">
-<td> <b> Generative AI with MATLAB & Simulink </b> <br>
+<td> <b> Generative and Agentic AI with MATLAB & Simulink </b> <br>
 <img src="Images/aiplayground.gif" width="400"  />
 <td><ul>
-Explore the growing ecosystem of generative AI tools for MATLAB and Simulink, from AI assistants built into the desktop to agentic workflows and chat-based coding tools.
+Explore the growing ecosystem of Generative AI and Agentic AI tools for MATLAB and Simulink, from AI assistants built into the desktop to agentic workflows and chat-based coding tools.
 <li><a href="https://www.mathworks.com/products/matlab-copilot.html"> MATLAB Copilot provides AI-powered assistance directly in the MATLAB desktop environment.</a></li>
 <li><a href="https://www.mathworks.com/matlabcentral/playground"> The MATLAB AI Chat Playground lets you experiment with AI, answer questions, and draft MATLAB code, free with a MathWorks account.</a></li>
-<li><a href="https://chatgpt.com/g/g-QFTjbeK3U-matlab"> MATLAB GPT is available on the OpenAI GPT Store.</a></li>
-<li><a href="#generative-ai-with-matlab--simulink"> See the full list of generative AI tools including agentic toolkits and MCP integrations.</a></li>
+<li><a href="https://www.mathworks.com/products/matlab/generative-ai.html"> See the full list of generative AI tools, including agentic toolkits and MCP integrations.</a></li>
 </ul></td>
 </tr>
 
@@ -854,7 +853,7 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 
 ---
 
-## Generative AI with MATLAB & Simulink
+## Generative and Agentic AI with MATLAB & Simulink
 
 🌐 **Overview**: For a full overview of generative AI capabilities in MATLAB and Simulink, visit the [MathWorks Generative AI page](https://www.mathworks.com/products/matlab/generative-ai.html).
 <table>
@@ -892,12 +891,20 @@ Take a break with these MATLAB animations and GIFs, perfect for a light-hearted 
 
 ## Additional AI Tools
 *Experiment with AI and MATLAB through chat interfaces and community tools. Some require a MathWorks, OpenAI, or MATLAB license.*
-
 | Product | Description | Link |
 |---------|-------------|------|
 | **MATLAB AI Chat Playground** | A free, browser-based sandbox to experiment with AI, draft MATLAB code, and solve problems interactively. Requires a free MathWorks account. | [AI Chat Playground](https://www.mathworks.com/matlabcentral/playground/new) |
 | **MATLAB GPT** | Access MATLAB-specialized GPT directly from the OpenAI Store. Requires an OpenAI account. | [MATLAB GPT](https://chatgpt.com/g/g-QFTjbeK3U-matlab) |
 | **MatGPT App** | A MATLAB app and class for connecting to the ChatGPT API directly within MATLAB. Requires a MATLAB license. | [MatGPT App](https://www.mathworks.com/matlabcentral/fileexchange/126665-matgpt) |
+
+---
+
+## Learn from the MathWorks Blogs
+*Read how MathWorks engineers use AI agents with MATLAB and Simulink to learn workflows you can try yourself.*
+| Author | Blog Post | Link |
+|--------|-----------|------|
+| **Mike Croucher** | *Introducing the MATLAB Agentic Toolkit*: a beginner-friendly overview of connecting agentic AI tools (like Claude Code or OpenAI Codex) to MATLAB for higher-quality code generation. | [The MATLAB Blog](https://blogs.mathworks.com/matlab/2026/04/13/introducing-the-matlab-agentic-toolkit/) |
+| **Guy Rouleau** | *Simulink Agentic Toolkit*: a hands-on walkthrough of setting up the toolkit and using an AI agent to plan, build, and test a Simulink simulation from a single prompt. | [Guy on Simulink](https://blogs.mathworks.com/simulink/2026/04/17/simulink-agentic-toolkit/) |
 
 ---
 
