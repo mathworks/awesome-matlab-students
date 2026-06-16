@@ -704,6 +704,7 @@ Looking for even more MATLAB & Simulink resources on GitHub? Then explore these 
 - [Deep Learning](#-deep-learning-resources-for-matlab--simulink)
 - [UAV](#-uav-with-matlab-and-simulink-resources)
 - [Renewable Energy](#-renewable-energy-with-matlab-and-simulink-resources)
+- [Electric Vehicles](#-electric-vehicle-with-matlab-and-simulink-resources)
 
 ---
 
