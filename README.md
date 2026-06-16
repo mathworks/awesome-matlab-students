@@ -764,13 +764,23 @@ Looking for even more MATLAB & Simulink resources on GitHub? Then explore these 
 ---
 
 ### 🌱 Renewable Energy with MATLAB and Simulink Resources
-*Sustainable energy & student competitions*
+*Sustainable energy projects and resources*
 
 [![Renewable Energy Resources](https://img.shields.io/badge/GitHub-Renewable%20Energy%20With%20MATLAB%20and%20Simulink-brightgreen?logo=github)](https://github.com/mathworks/Renewable-Energy-With-MATLAB-and-Simulink?tab=readme-ov-file#student-competitions)
 
 - Models and tools for renewable energy systems
 - Student competitions and challenges  
 👉 [Discover Renewable Energy Resources](https://github.com/mathworks/Renewable-Energy-With-MATLAB-and-Simulink?tab=readme-ov-file#student-competitions)
+
+---
+
+### ⚡ Electric Vehicle with MATLAB and Simulink Resources
+*Electric Vehicle (EV) projects and tools*
+
+[![EV Resources](https://img.shields.io/badge/GitHub-EV%20with%20MATLAB%20and%20Simulink-yellow?logo=github)](https://github.com/mathworks/EV-with-MATLAB-and-Simulink)
+- Model, simulate, and analyze electric vehicle systems
+- Example projects and code  
+👉 [Explore EV Resources](https://github.com/mathworks/EV-with-MATLAB-and-Simulink)
 
 ---
 
