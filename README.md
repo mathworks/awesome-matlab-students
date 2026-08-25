@@ -141,6 +141,7 @@ Sharing technical and real-life examples of how students can use MATLAB and Simu
 <li><a href="https://blogs.mathworks.com/student-lounge/category/workflow/?s_tid=Blog_student-lounge_Category">Project Workflows</a></li>
 <li><a href="https://blogs.mathworks.com/student-lounge/category/skills/?s_tid=Blog_student-lounge_Category">Improve your skills</a></li>
 <li><a href="https://blogs.mathworks.com/student-lounge/category/automated-driving/?s_tid=Blog_student-lounge_Category">Automated Driving</a></li>
+<li><a href="https://blogs.mathworks.com/student-lounge/2026/08/24/learn-matlab-a-students-guide/">Learn MATLAB – A Student’s Guide</a></li>  
 <li><a href="https://blogs.mathworks.com/student-lounge/">All Student Lounge Blogs</a></li>
 </ul></td>
 </tr>
@@ -278,6 +279,8 @@ Explore the growing ecosystem of Generative AI and Agentic AI tools for MATLAB a
 ## Quick Start Guide for New MATLAB Users
 
 > **New to MATLAB?** Follow these steps to go from zero to running your first programs. Each step links to the best resource for that topic.
+
+> 📝 **New!** Prefer a guided walkthrough (or a video) instead? Read [Learn MATLAB – A Student's Guide](https://blogs.mathworks.com/student-lounge/2026/08/24/learn-matlab-a-students-guide/) from the MathWorks Student Programs team — it covers this whole section plus a **day-by-day first-week plan** to help you build confidence fast, and includes a companion YouTube video. 
 
 ### Step 1 — Get MATLAB
 
