@@ -154,7 +154,7 @@ Sharing technical and real-life examples of how students can use MATLAB and Simu
 <td><ul>
 Download and use community-contributed code to help you get started or gain inspiration for your project
 <li><a href="https://www.mathworks.com/matlabcentral/fileexchange/?s_tid=gn_mlc_fx_files">Find Code to inspire your project</a></li>
-<li><a href="https://www.mathworks.com/matlabcentral/fileexchange/?category%5B%5D=support%2Fgaming800">Need a Study Break? Download a game on File Exchange</a></li>
+<li><a href="https://www.mathworks.com/matlabcentral/fileexchange/?category%5B%5D=overview%2Fgaming800">Need a Study Break? Download a game on File Exchange</a></li>
 <ul>
 <li><sup><sub>Matt Fig (2023). MATLABTETRIS (https://www.mathworks.com/matlabcentral/fileexchange/34513-matlabtetris), MATLAB Central File Exchange. Retrieved July 20, 2023.</sup></sub></li>     
 </ul>
