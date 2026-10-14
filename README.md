@@ -16,6 +16,8 @@ Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a
   - [Self-Paced Onramps](#self-paced-onramps)
   - [Cheat Sheets](#cheat-sheets-blue_book-pencil2)
 - [Connecting MATLAB to Hardware](#-connecting-matlab-to-hardware)
+- [Using MATLAB and Python Together](#-using-matlab-and-python-together)
+  - [Simulink and Python](#-simulink-and-python)
 - [Academic Discipline Specific Resources](#industrydiscipline-specific-resources-airplane-racing_car-robot-microscope)
 - [Student Programs and Competitions](#student-programs-trophy)
   - [Hackathons and Capstone Projects](#related-matlab-github-resources-for-students)
@@ -96,18 +98,18 @@ Complimentary 2-hour Simulink tutorials for
 <td><ul>
 
 Check out our Cheat Sheet Repository to help you learn the following topics
-- [MATLAB Basic Functions](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/matlab-basic-functions-reference.pdf) 
+- [MATLAB Basic Functions](https://www.mathworks.com/campaigns/offers/matlab-basic-functions-reference-cheat-sheet.html) 
 - [Visualization](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/MATLAB_Visualization_Reference_EN.pdf)
-- [Importing data](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/importing-exporting-data-cheat-sheet.pdf)
+- [Importing data](https://www.mathworks.com/campaigns/offers/importing-exporting-data-cheat-sheet.html)
 - [Deep Learning](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/deep-learning-with-matlab-quick-start-guide.pdf)
-- [Using MATLAB with Python](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/using-matlab-with-python-cheat-sheet.pdf)
+- [Using MATLAB with Python](https://www.mathworks.com/campaigns/offers/calling-python-from-matlab-cheat-sheet.html)
 - [Machine Learning](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/machine-learning-quick-start-guide.pdf)
-- [MATLAB for Python Users](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/matlab-for-python-users-cheat-sheet.pdf)
+- [MATLAB for Python Users](https://www.mathworks.com/campaigns/offers/matlab-for-python-users-cheat-sheet.html)
 - [Live Editor](https://github.com/mathworks/awesome-matlab-students/blob/main/CheatSheets/live-editor-quick-start-guide.pdf)
 - and more!
 <br>
 
-[All Cheat Sheets](https://github.com/mathworks/awesome-matlab-students/tree/main/CheatSheets)
+[All Cheat Sheets](https://www.mathworks.com/campaigns/products/cheat-sheets.html)
   
 </ul></td>
 
@@ -527,29 +529,29 @@ Explore this section to find a collection of featured cheat sheets that provide 
 
 <tr class="odd">
 <td> <b>MATLAB Basic Functions Cheat Sheet<b> <br>
-<a href="CheatSheets/matlab-basic-functions-reference.pdf"><img src="Images/basicfunctions.png" alt="MATLAB Basic Functions" width="500"></a></td>
+<a href="https://www.mathworks.com/campaigns/offers/matlab-basic-functions-reference-cheat-sheet.html"><img src="Images/basicfunctions.png" alt="MATLAB Basic Functions" width="500"></a></td>
 <td><ul>
   
-[MATLAB Basic Functions Cheat Sheet](CheatSheets/matlab-basic-functions-reference.pdf)
+[MATLAB Basic Functions Cheat Sheet](https://www.mathworks.com/campaigns/offers/matlab-basic-functions-reference-cheat-sheet.html)
   
 </ul></td>
 </tr>
 
 <tr class="odd">
-<td> <b>Using MATLAB with Python Cheat Sheet<b> <br>
-<a href="CheatSheets/using-matlab-with-python-cheat-sheet.pdf"><img src="Images/matlabpython.jpg" alt="MATLAB and Python" width="500"></a></td>
+<td> <b>MATLAB and Python Cheat Sheets</b> <br>
+<a href="https://www.mathworks.com/campaigns/offers/matlab-for-python-users-cheat-sheet.html"><img src="Images/matlabpython.jpg" alt="MATLAB and Python" width="500"></a></td>
 <td><ul>
   
-[Using MATLAB with Python Cheat Sheet](CheatSheets/using-matlab-with-python-cheat-sheet.pdf)
+[MATLAB for Python Users](https://www.mathworks.com/campaigns/offers/matlab-for-python-users-cheat-sheet.html)
 <br>
 <br>
-[MATLAB for Python Users](CheatSheets/matlab-for-python-users-cheat-sheet.pdf)
+[Calling MATLAB from Python](https://www.mathworks.com/campaigns/offers/calling-matlab-from-python-cheat-sheet.html)
 <br>
 <br>
-[Using Simulink with Python](https://www.mathworks.com/help/simulink/python-code-integration.html)
+[Calling Python from MATLAB](https://www.mathworks.com/campaigns/offers/calling-python-from-matlab-cheat-sheet.html)
 <br>
 <br>
-[MATLAB and Python Resource Page](https://www.mathworks.com/products/matlab/getting-started/using-matlab-python.html)
+🐍 See [Using MATLAB and Python Together](#-using-matlab-and-python-together) for videos, projects, and Simulink resources
 
 </ul></td>
 </tr>
@@ -634,6 +636,29 @@ MATLAB supports a wide range of hardware, making it a great tool for hands-on st
 | 🟡 Intermediate | Working with Raspberry Pi Hardware (GPIO, LEDs, sensors) | Raspberry Pi | MathWorks Example | [View](https://www.mathworks.com/help/matlab/supportpkg/working-with-raspberry-pi-hardware.html) |
 | 🔴 Advanced | Estimating Orientation Using Inertial Sensor Fusion and MPU-9250 | Arduino | MathWorks Example | [View](https://www.mathworks.com/help/matlab/supportpkg/estimating-orientation-using-inertial-sensor-fusion-and-mpu9250.html) |
 | 🔴 Advanced | Deploy MATLAB Algorithms on Raspberry Pi | Raspberry Pi | MathWorks Example | [View](https://www.mathworks.com/help/matlab/supportpkg/getting-started-with-deploying-a-matlab-function-on-the-raspberry-pi-hardware.html) |
+
+---
+## 🐍 Using MATLAB and Python Together
+
+Already know Python? You don't have to choose. MATLAB and Python work together, so you can call Python libraries from MATLAB, call MATLAB from your Python code, and connect Python to Simulink models. Use the table below to find the right starting point.
+
+| I want to...                         | Resource                                   | Link |
+| ------------------------------------ | ------------------------------------------ | ---- |
+| 📺 Get an overview                    | MATLAB and Python for Students video series | [Watch](https://www.mathworks.com/videos/series/matlab-and-python-for-students.html) |
+| 🔄 Learn MATLAB coming from Python    | MATLAB for Python Users cheat sheet         | [View](https://www.mathworks.com/campaigns/offers/matlab-for-python-users-cheat-sheet.html) |
+| 🐍 Use MATLAB from my Python code     | Calling MATLAB from Python cheat sheet      | [View](https://www.mathworks.com/campaigns/offers/calling-matlab-from-python-cheat-sheet.html) |
+| 📦 Use Python libraries in MATLAB     | Calling Python from MATLAB cheat sheet      | [View](https://www.mathworks.com/campaigns/offers/calling-python-from-matlab-cheat-sheet.html) |
+| 🧪 Try a hands-on project             | Starter Project Using MATLAB and Python     | [Open](https://www.mathworks.com/matlabcentral/fileexchange/116490-programming-a-starter-project-using-matlab-and-python) |
+| 📚 Go deeper                          | MATLAB with Python book                     | [Read](https://github.com/yanndebray/matlab-with-python-book/) |
+
+### 🔗 Simulink and Python
+
+| Resource                                   | Link |
+| ------------------------------------------ | ---- |
+| 📄 Python code integration in Simulink      | [Documentation](https://www.mathworks.com/help/simulink/python-code-integration.html) |
+| 📺 How to Use Python Code in Simulink       | [Watch](https://youtu.be/f6-0huVztS8) |
+
+> 💡 **Tip:** Prefer working in notebooks or VS Code? You can also [run MATLAB in Jupyter](https://www.mathworks.com/help/cloudcenter/ug/run-matlab-in-jupyter.html) and use the [MATLAB extension for VS Code](https://github.com/mathworks/matlab-extension-for-vscode).
 
 ---
 
