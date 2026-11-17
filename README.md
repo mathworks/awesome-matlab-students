@@ -263,7 +263,7 @@ MathWorks Student Programs offers students an opportunity to participate in comp
 <br>
 <br>
 <li><a href="https://www.mathworks.com/academia/students.html"> Explore Student Programs Here!</a></li>
-<li><a href="https://www.mathworks.com/academia/students/competitions/student-challenge/global-student-challenge.html"> Our Global Student Challenge is live!!</a></li>
+<li><a href="https://www.mathworks.com/academia/students/competitions/student-challenge/global-student-challenge.html"> Our Global Student Challenge is live!</a></li>
 </ul></td>
 </tr>
 
